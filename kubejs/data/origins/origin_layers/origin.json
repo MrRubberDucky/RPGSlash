@@ -1,0 +1,12 @@
+{
+  "loading_priority": 666,
+  "replace": true,
+  "origins": [
+    "rpgslash:lootgoblin",
+	"rpgslash:enderling",
+	"rpgslash:feline",
+	"origins:human"
+  ],
+  "order": 0,
+  "enabled": true
+}

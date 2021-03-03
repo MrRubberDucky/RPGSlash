@@ -1,0 +1,21 @@
+{
+	"powers": [
+	    "rpgslash:feline_cat_transformation",
+		"rpgslash:feline_senses",
+		"rpgslash:feline_cat_team",
+		"rpgslash:feline_cat_paws",
+		"rpgslash:feline_effect",
+        "origins:fall_immunity",
+		"origins:sprint_jump",
+		"origins:scare_creepers",
+		"origins-classes:sneaky",
+        "origins:water_vulnerability",
+		"origins:cat_vision",
+		"rpgslash:pescatarian"
+	],
+	"icon": "mobz:friendhead",
+	"order": 0,
+	"impact": 1,
+	"name": "Feline",
+	"description": "Being a cat is cool. I mean, meow?"
+}

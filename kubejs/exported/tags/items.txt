@@ -1,0 +1,3524 @@
+To refresh this file, delete it and run /reload command again! Last updated: Mar 1, 2021 3:58:16 AM
+
+#byg:pine_logs
+- byg:pine_log
+- byg:stripped_pine_log
+- byg:pine_wood
+- byg:stripped_pine_wood
+
+#dragonloot:explosion_resistant
+- dragonloot:dragon_scale
+- dragonloot:dragon_helmet
+- dragonloot:dragon_chestplate
+- dragonloot:dragon_leggings
+- dragonloot:dragon_boots
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+- biomemakeover:soul_embers
+
+#rpgz:rare_items
+- #minecraft:music_discs
+- minecraft:diamond
+- minecraft:gold_ingot
+- minecraft:gold_nugget
+- minecraft:lapis_lazuli
+- minecraft:netherite_ingot
+- minecraft:emerald
+- minecraft:iron_ingot
+- minecraft:iron_nugget
+- minecraft:prismarine_crystals
+- minecraft:prismarine_shard
+- minecraft:totem_of_undying
+- minecraft:nether_star
+- minecraft:netherite_scrap
+
+#fabric:pickaxes
+- betternether:cincinnasite_pickaxe
+- betternether:cincinnasite_pickaxe_diamond
+- betternether:nether_ruby_pickaxe
+- battletowers:key_pickaxe
+- byg:pendorite_pickaxe
+- minecraft:wooden_pickaxe
+- minecraft:stone_pickaxe
+- minecraft:iron_pickaxe
+- minecraft:golden_pickaxe
+- minecraft:diamond_pickaxe
+- minecraft:netherite_pickaxe
+- vanilla-hammers:diamond_hammer?
+- vanilla-hammers:emerald_hammer?
+- vanilla-hammers:ender_hammer?
+- vanilla-hammers:fiery_hammer?
+- vanilla-hammers:golden_hammer?
+- vanilla-hammers:iron_hammer?
+- vanilla-hammers:lapis_hammer?
+- vanilla-hammers:netherite_hammer?
+- vanilla-hammers:obsidian_hammer?
+- vanilla-hammers:prismarine_hammer?
+- vanilla-hammers:quartz_hammer?
+- vanilla-hammers:slime_hammer?
+- vanilla-hammers:stone_hammer?
+- vanilla-hammers:wooden_hammer?
+- betterend:aeternium_pickaxe
+- betterend:thallasium_pickaxe
+- betterend:terminite_pickaxe
+
+#minecraft:flammable_planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- blockus:bamboo_planks
+- blockus:white_oak_planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- blockus:bamboo_planks
+- blockus:white_oak_planks
+
+#blockus:recrafting_teal_nether_bricks
+- blockus:teal_nether_pillar
+- blockus:smooth_teal_nether_bricks
+- blockus:zigzagged_teal_nether_bricks
+
+#blockus:recrafting_blaze_bricks
+- blockus:blaze_pillar
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+- #blockus:patterned_wool
+
+#byg:maple_logs
+- byg:maple_log
+- byg:stripped_maple_log
+- byg:maple_wood
+- byg:stripped_maple_wood
+
+#c:storage_blocks
+- byg:ametrine_block
+- byg:pendorite_block
+- byg:anthracite_block
+
+#fabric:axes
+- betternether:cincinnasite_axe
+- betternether:cincinnasite_axe_diamond
+- betternether:nether_ruby_axe
+- byg:pendorite_axe
+- byg:pendorite_battleaxe
+- minecraft:wooden_axe
+- minecraft:stone_axe
+- minecraft:iron_axe
+- minecraft:golden_axe
+- minecraft:diamond_axe
+- minecraft:netherite_axe
+- betterend:terminite_axe
+- betterend:thallasium_axe
+- betterend:aeternium_axe
+
+#minecraft:ice
+- minecraft:ice
+- minecraft:packed_ice
+- minecraft:blue_ice
+- minecraft:ice
+- minecraft:packed_ice
+- minecraft:blue_ice
+
+#byg:zelkova_logs
+- byg:zelkova_log
+- byg:stripped_zelkova_log
+- byg:zelkova_wood
+- byg:stripped_zelkova_wood
+
+#fabric:leggings
+- byg:ametrine_leggings
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- blockus:warped_small_stems
+
+#byg:blue_sand
+- byg:blue_sand
+
+#c:saplings
+- byg:aspen_sapling
+- byg:baobab_sapling
+- byg:blue_enchanted_sapling
+- byg:blue_spruce_sapling
+- byg:brown_birch_sapling
+- byg:brown_oak_sapling
+- byg:cika_sapling
+- byg:cypress_sapling
+- byg:ebony_sapling
+- byg:fir_sapling
+- byg:green_enchanted_sapling
+- byg:holly_sapling
+- byg:jacaranda_sapling
+- byg:indigo_jacaranda_sapling
+- byg:mahogany_sapling
+- byg:mangrove_sapling
+- byg:maple_sapling
+- byg:orange_birch_sapling
+- byg:orange_oak_sapling
+- byg:orange_spruce_sapling
+- byg:orchard_sapling
+- byg:palo_verde_sapling
+- byg:joshua_sapling
+- byg:yellow_spruce_sapling
+- byg:pine_sapling
+- byg:pink_cherry_sapling
+- byg:rainbow_eucalyptus_sapling
+- byg:red_birch_sapling
+- byg:red_maple_sapling
+- byg:red_oak_sapling
+- byg:red_spruce_sapling
+- byg:redwood_sapling
+- byg:silver_maple_sapling
+- byg:white_cherry_sapling
+- byg:willow_sapling
+- byg:witch_hazel_sapling
+- byg:yellow_birch_sapling
+- byg:zelkova_sapling
+- byg:skyris_sapling
+- byg:palm_sapling
+- byg:araucaria_sapling
+- byg:brown_zelkova_sapling
+- byg:lament_sapling
+- byg:withering_oak_sapling
+- byg:ether_sapling
+- byg:nightshade_sapling
+
+#fabric:shovels
+- betternether:cincinnasite_shovel
+- betternether:cincinnasite_shovel_diamond
+- betternether:nether_ruby_shovel
+- byg:pendorite_shovel
+- minecraft:wooden_shovel
+- minecraft:stone_shovel
+- minecraft:iron_shovel
+- minecraft:golden_shovel
+- minecraft:diamond_shovel
+- minecraft:netherite_shovel
+- betterend:aeternium_shovel
+- betterend:terminite_shovel
+- betterend:thallasium_shovel
+
+#c:dark_ashes_dusts
+- cinderscapes:ash_pile
+
+#c:crops
+- byg:blueberries
+- byg:green_apple
+- byg:crimson_berries
+
+#blockus:recrafting_polished_andesite
+- blockus:andesite_bricks
+- blockus:zigzagged_andesite
+- blockus:andesite_circle_pavement
+
+#curios:cosmetic_helmet
+- minecraft:leather_helmet
+- minecraft:iron_helmet
+- minecraft:golden_helmet
+- minecraft:chainmail_helmet
+- minecraft:diamond_helmet
+- minecraft:netherite_helmet
+- minecraft:leather_helmet
+- minecraft:iron_helmet
+- minecraft:golden_helmet
+- minecraft:chainmail_helmet
+- minecraft:diamond_helmet
+- minecraft:netherite_helmet
+- minecraft:dragon_head
+- betternether:cincinnasite_helmet
+- betternether:nether_ruby_helmet
+- adventurez:stone_golem_helmet
+- battletowers:key_helmet
+- biomemakeover:cowboy_hat
+- biomemakeover:witch_hat
+- desolation:mask
+- desolation:goggles
+- desolation:mask_and_goggles
+- mmorpg:armor/leather/helmet/leather_helmet0
+- mmorpg:armor/leather/helmet/leather_helmet1
+- mmorpg:armor/leather/helmet/leather_helmet2
+- mmorpg:armor/leather/helmet/leather_helmet3
+- mmorpg:armor/leather/helmet/leather_helmet4
+- mmorpg:armor/cloth/helmet/cloth_helmet0
+- mmorpg:armor/cloth/helmet/cloth_helmet1
+- mmorpg:armor/cloth/helmet/cloth_helmet2
+- mmorpg:armor/cloth/helmet/cloth_helmet3
+- mmorpg:armor/cloth/helmet/cloth_helmet4
+- mmorpg:armor/plate/helmet/plate_helmet0
+- mmorpg:armor/plate/helmet/plate_helmet1
+- mmorpg:armor/plate/helmet/plate_helmet2
+- mmorpg:armor/plate/helmet/plate_helmet3
+- mmorpg:armor/plate/helmet/plate_helmet4
+- byg:ametrine_helmet
+- dragonloot:dragon_helmet
+- betterend:terminite_helmet
+- betterend:aeternium_helmet
+- betterend:crystalite_helmet
+- mcda:beenest_armor_helmet
+- mcda:beehive_armor_helmet
+- mcda:champions_armor_helmet
+- mcda:heros_armor_helmet
+- mcda:dark_armor_helmet
+- mcda:titans_shroud_helmet
+- mcda:ghostly_armor_helmet
+- mcda:ghost_kindler_helmet
+- mcda:grim_armor_helmet
+- mcda:wither_armor_helmet
+- mcda:guards_armor_helmet
+- mcda:curious_armor_helmet
+- mcda:mercenary_armor_helmet
+- mcda:renegade_armor_helmet
+- mcda:hungry_horror_helmet
+- mcda:white_mystery_armor_helmet
+- mcda:plate_armor_helmet
+- mcda:full_metal_armor_helmet
+- mcda:reinforced_mail_helmet
+- mcda:stalwart_armor_helmet
+- mcda:highland_armor_helmet
+- mcda:snow_armor_helmet
+- mcda:soul_robe_helmet
+- mcda:souldancer_robe_helmet
+- mcda:thief_armor_helmet
+- mcda:spider_armor_helmet
+- mcda:wolf_armor_helmet
+- mcda:black_wolf_armor_helmet
+- mcda:blue_mystery_armor_helmet
+- mcda:green_mystery_armor_helmet
+- mcda:purple_mystery_armor_helmet
+- mcda:red_mystery_armor_helmet
+- mcda:ocelot_armor_helmet
+- mcda:shadow_walker_armor_helmet
+- mcda:fox_armor_helmet
+- mcda:phantom_armor_helmet
+- mcda:frost_armor_helmet
+- mcda:spelunker_armor_helmet
+- mcda:cave_crawler_helmet
+- mcda:archers_helmet
+- mcda:frost_bite_armor_helmet
+- mcda:evocation_robe_helmet
+- mcda:ember_robe_helmet
+- mcda:verdant_robe_helmet
+
+#blockus:recrafting_stone_bricks
+- blockus:stone_bricks_pillar
+- minecraft:chiseled_stone_bricks
+- blockus:zigzagged_stone_bricks
+- blockus:stone_circle_pavement
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+- blockus:dark_oak_small_logs
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- cinderscapes:stripped_scorched_stem
+- cinderscapes:scorched_stem
+- cinderscapes:stripped_scorched_hyphae
+- cinderscapes:scorched_hyphae
+- cinderscapes:scorched_planks
+- cinderscapes:scorched_slab
+- cinderscapes:scorched_pressure_plate
+- cinderscapes:scorched_fence
+- cinderscapes:scorched_trapdoor
+- cinderscapes:scorched_fence_gate
+- cinderscapes:scorched_stairs
+- cinderscapes:scorched_button
+- cinderscapes:scorched_door
+- cinderscapes:scorched_sign
+- cinderscapes:stripped_umbral_stem
+- cinderscapes:umbral_stem
+- cinderscapes:stripped_umbral_hyphae
+- cinderscapes:umbral_hyphae
+- cinderscapes:umbral_hyphae
+- cinderscapes:umbral_planks
+- cinderscapes:umbral_slab
+- cinderscapes:umbral_pressure_plate
+- cinderscapes:umbral_fence
+- cinderscapes:umbral_trapdoor
+- cinderscapes:umbral_fence_gate
+- cinderscapes:umbral_stairs
+- cinderscapes:umbral_button
+- cinderscapes:umbral_door
+- cinderscapes:umbral_sign
+- blockus:charred_planks
+- blockus:charred_slab
+- blockus:charred_pressure_plate
+- blockus:charred_fence
+- blockus:charred_trapdoor
+- blockus:charred_fence_gate
+- blockus:charred_stairs
+- blockus:charred_button
+- blockus:charred_door
+- desolation:charred_log
+- desolation:charred_planks
+- desolation:charred_slab
+- desolation:charred_pressure_plate
+- desolation:charred_fence
+- desolation:charred_trapdoor
+- desolation:charred_fence_gate
+- desolation:charred_stairs
+- desolation:charred_button
+- desolation:charred_door
+
+#betterend:pythadendron_logs
+- betterend:pythadendron_bark
+- betterend:pythadendron_stripped_log
+- betterend:pythadendron_stripped_bark
+- betterend:pythadendron_log
+
+#c:fruits
+- byg:blueberries
+- byg:green_apple
+- byg:crimson_berries
+- byg:baobab_fruit
+- byg:joshua_fruit
+
+#minecraft:coals
+- minecraft:coal
+- minecraft:charcoal
+
+#byg:willow_logs
+- byg:willow_log
+- byg:stripped_willow_log
+- byg:willow_wood
+- byg:stripped_willow_wood
+
+#blockus:patterned_wool
+- blockus:white_patterned_wool
+- blockus:orange_patterned_wool
+- blockus:magenta_patterned_wool
+- blockus:light_blue_patterned_wool
+- blockus:yellow_patterned_wool
+- blockus:lime_patterned_wool
+- blockus:pink_patterned_wool
+- blockus:gray_patterned_wool
+- blockus:light_gray_patterned_wool
+- blockus:cyan_patterned_wool
+- blockus:purple_patterned_wool
+- blockus:blue_patterned_wool
+- blockus:brown_patterned_wool
+- blockus:green_patterned_wool
+- blockus:red_patterned_wool
+- blockus:black_patterned_wool
+
+#byg:nightshade_logs
+- byg:nightshade_log
+- byg:stripped_nightshade_log
+- byg:nightshade_wood
+- byg:stripped_nightshade_wood
+
+#byg:red_dye
+- byg:amaranth
+- byg:begonia
+- byg:red_cornflower
+- byg:red_orchid
+- byg:kovan_flower
+- byg:rose
+- byg:torch_ginger
+
+#betterend:lacugrove_logs
+- betterend:lacugrove_bark
+- betterend:lacugrove_stripped_log
+- betterend:lacugrove_log
+- betterend:lacugrove_stripped_bark
+
+#betterend:end_lotus_logs
+- betterend:end_lotus_log
+- betterend:end_lotus_bark
+- betterend:end_lotus_stripped_log
+- betterend:end_lotus_stripped_bark
+
+#fabric:hammers
+- betterend:iron_hammer
+- betterend:golden_hammer
+- betterend:diamond_hammer
+- betterend:netherite_hammer
+- betterend:terminite_hammer
+- betterend:aeternium_hammer
+- betterend:netherite_hammer
+- betterend:golden_hammer
+- betterend:diamond_hammer
+- betterend:thallasium_hammer
+- betterend:iron_hammer
+- betterend:terminite_hammer
+- betterend:aeternium_hammer
+
+#byg:skyris_logs
+- byg:skyris_log
+- byg:stripped_skyris_log
+- byg:skyris_wood
+- byg:stripped_skyris_wood
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+- betterend:tenanea_fence
+- betterend:helix_tree_fence
+- betterend:jellyshroom_fence
+- betterend:end_lotus_fence
+- betterend:lacugrove_fence
+- betterend:pythadendron_fence
+- betterend:umbrella_tree_fence
+- betterend:mossy_glowshroom_fence
+- betterend:dragon_tree_fence
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- byg:aspen_sapling
+- byg:baobab_sapling
+- byg:blue_enchanted_sapling
+- byg:blue_spruce_sapling
+- byg:brown_birch_sapling
+- byg:brown_oak_sapling
+- byg:cika_sapling
+- byg:cypress_sapling
+- byg:ebony_sapling
+- byg:fir_sapling
+- byg:green_enchanted_sapling
+- byg:holly_sapling
+- byg:jacaranda_sapling
+- byg:indigo_jacaranda_sapling
+- byg:mahogany_sapling
+- byg:mangrove_sapling
+- byg:maple_sapling
+- byg:orange_birch_sapling
+- byg:orange_oak_sapling
+- byg:orange_spruce_sapling
+- byg:orchard_sapling
+- byg:palo_verde_sapling
+- byg:pine_sapling
+- byg:pink_cherry_sapling
+- byg:rainbow_eucalyptus_sapling
+- byg:red_birch_sapling
+- byg:red_maple_sapling
+- byg:red_oak_sapling
+- byg:red_spruce_sapling
+- byg:redwood_sapling
+- byg:silver_maple_sapling
+- byg:white_cherry_sapling
+- byg:willow_sapling
+- byg:witch_hazel_sapling
+- byg:yellow_birch_sapling
+- byg:zelkova_sapling
+- byg:skyris_sapling
+- byg:palm_sapling
+- byg:araucaria_sapling
+- byg:brown_zelkova_sapling
+- byg:lament_sapling
+- byg:withering_oak_sapling
+- byg:ether_sapling
+- byg:nightshade_sapling
+- biomemakeover:blighted_balsa_sapling
+- biomemakeover:willow_sapling
+- biomemakeover:swamp_cypress_sapling
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#byg:white_sand
+- byg:white_sand
+
+#blockus:recrafting_sandstone
+- minecraft:smooth_sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- blockus:sandstone_bricks
+- blockus:small_sandstone_bricks
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+- betterend:pythadendron_door
+- betterend:mossy_glowshroom_door
+- betterend:lacugrove_door
+- betterend:helix_tree_door
+- betterend:tenanea_door
+- betterend:jellyshroom_door
+- betterend:dragon_tree_door
+- betterend:end_lotus_door
+- betterend:umbrella_tree_door
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+
+#cinderscapes:umbral_stems
+- cinderscapes:stripped_umbral_stem
+- cinderscapes:umbral_stem
+- cinderscapes:stripped_umbral_hyphae
+- cinderscapes:umbral_hyphae
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- byg:aspen_fence
+- byg:baobab_fence
+- byg:blue_enchanted_fence
+- byg:cherry_fence
+- byg:cika_fence
+- byg:cypress_fence
+- byg:ebony_fence
+- byg:fir_fence
+- byg:green_enchanted_fence
+- byg:holly_fence
+- byg:jacaranda_fence
+- byg:mahogany_fence
+- byg:mangrove_fence
+- byg:maple_fence
+- byg:pine_fence
+- byg:rainbow_eucalyptus_fence
+- byg:redwood_fence
+- byg:skyris_fence
+- byg:willow_fence
+- byg:witch_hazel_fence
+- byg:zelkova_fence
+- byg:sythian_fence
+- byg:embur_fence
+- byg:palm_fence
+- byg:lament_fence
+- byg:ether_fence
+- byg:bulbis_fence
+- byg:nightshade_fence
+- cinderscapes:scorched_fence
+- cinderscapes:umbral_fence
+- blockus:bamboo_fence
+- blockus:charred_fence
+- blockus:white_oak_fence
+- desolation:charred_fence
+- biomemakeover:blighted_balsa_fence
+- biomemakeover:willow_fence
+- biomemakeover:swamp_cypress_fence
+- betterend:tenanea_fence
+- betterend:helix_tree_fence
+- betterend:jellyshroom_fence
+- betterend:end_lotus_fence
+- betterend:lacugrove_fence
+- betterend:pythadendron_fence
+- betterend:umbrella_tree_fence
+- betterend:mossy_glowshroom_fence
+- betterend:dragon_tree_fence
+
+#c:limestone
+- blockus:limestone
+- blockus:limestone_bricks
+- blockus:limestone_pillar
+- blockus:chiseled_limestone
+- blockus:limestone_circle_pavement
+
+#curios:necklace
+- curios:amulet
+- mmorpg:uniques/jewelry/angel_prot_necklace
+- mmorpg:uniques/jewelry/birth_miracle
+- mmorpg:uniques/jewelry/skull_of_spirits
+- mmorpg:uniques/jewelry/snake_eye
+- mmorpg:uniques/jewelry/hunger_neck
+- mmorpg:jewelry/necklace/all_res_necklace_low
+- mmorpg:jewelry/necklace/all_res_necklace_end
+- mmorpg:jewelry/necklace/life_necklace_low
+- mmorpg:jewelry/necklace/life_necklace_end
+
+#betterend:tenanea_logs
+- betterend:tenanea_bark
+- betterend:tenanea_log
+- betterend:tenanea_stripped_log
+- betterend:tenanea_stripped_bark
+
+#byg:palo_verde_logs
+- byg:palo_verde_log
+- byg:stripped_palo_verde_log
+- byg:palo_verde_wood
+- byg:stripped_palo_verde_wood
+
+#minecraft:signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- cinderscapes:scorched_sign
+- cinderscapes:umbral_sign
+
+#c:workbench
+- byg:aspen_crafting_table
+- byg:baobab_crafting_table
+- byg:blue_enchanted_crafting_table
+- byg:cherry_crafting_table
+- byg:cika_crafting_table
+- byg:cypress_crafting_table
+- byg:ebony_crafting_table
+- byg:fir_crafting_table
+- byg:green_enchanted_crafting_table
+- byg:holly_crafting_table
+- byg:jacaranda_crafting_table
+- byg:mahogany_crafting_table
+- byg:mangrove_crafting_table
+- byg:maple_crafting_table
+- byg:pine_crafting_table
+- byg:rainbow_eucalyptus_crafting_table
+- byg:redwood_crafting_table
+- byg:skyris_crafting_table
+- byg:willow_crafting_table
+- byg:witch_hazel_crafting_table
+- byg:zelkova_crafting_table
+- byg:sythian_crafting_table
+- byg:embur_crafting_table
+- byg:palm_crafting_table
+- byg:lament_crafting_table
+
+#blockus:recrafting_marble_bricks
+- blockus:marble_pillar
+- blockus:chiseled_marble_pillar
+- blockus:chiseled_marble
+- blockus:marble_circle_pavement
+
+#c:black_sand
+- byg:black_sand
+
+#betterend:mossy_glowshroom_logs
+- betterend:mossy_glowshroom_stripped_log
+- betterend:mossy_glowshroom_log
+- betterend:mossy_glowshroom_bark
+- betterend:mossy_glowshroom_stripped_bark
+
+#c:purple_sand
+- byg:purple_sand
+
+#minecraft:fishes
+- minecraft:cod
+- minecraft:cooked_cod
+- minecraft:salmon
+- minecraft:cooked_salmon
+- minecraft:pufferfish
+- minecraft:tropical_fish
+- gofish:icicle_fish
+- gofish:lilyfish
+- gofish:matrix_fish
+- gofish:slimefish
+- gofish:snowball_fish
+- gofish:terrafish
+- gofish:carrot_carp
+- gofish:oakfish
+- gofish:spikerfish
+- gofish:blackstone_trout
+- gofish:bonefish
+- gofish:gilded_blackstone_carp
+- gofish:smokey_salmon
+- gofish:soul_salmon
+- gofish:magma_cod
+- gofish:basalt_bass
+- gofish:obsidian_halibut
+- gofish:endfish
+- gofish:ender_eel
+- gofish:seaweed_eel
+- gofish:lunarfish
+- gofish:galaxy_starfish
+- gofish:starry_salmon
+- gofish:nebula_swordfish
+- gofish:cloudy_crab
+- gofish:rainy_bass
+- gofish:thundering_bass
+- biomemakeover:glowfish
+
+#byg:fir_logs
+- byg:fir_log
+- byg:stripped_fir_log
+- byg:fir_wood
+- byg:stripped_fir_wood
+
+#byg:light_gray_dye
+- byg:richea
+
+#c:iron_ingots
+- betterend:terminite_ingot
+- betterend:thallasium_ingot
+
+#blockus:recrafting_quartz_block
+- minecraft:smooth_quartz
+- minecraft:quartz_pillar
+- minecraft:chiseled_quartz_block
+- blockus:quartz_bricks
+- blockus:quartz_circle_pavement
+
+#fabric:shears
+- betternether:cincinnasite_shears
+- minecraft:shears
+
+#byg:cyan_dye
+- byg:cyan_amaranth
+- byg:cyan_rose
+- byg:cyan_tulip
+- byg:winter_cyclamen
+- byg:foxglove
+
+#origins:shields
+- minecraft:shield
+
+#blockus:recrafting_polished_granite
+- blockus:granite_bricks
+- blockus:zigzagged_granite
+- blockus:granite_circle_pavement
+
+#c:sand
+- byg:white_sand
+- byg:black_sand
+- byg:blue_sand
+- byg:pink_sand
+- byg:purple_sand
+
+#c:marble
+- blockus:marble
+- blockus:marble_bricks
+- blockus:marble_pillar
+- blockus:chiseled_marble_pillar
+- blockus:chiseled_marble
+- blockus:marble_circle_pavement
+
+#anvil_fix:force_incremental_repair_cost
+
+#blockus:warped_nether_grass
+- minecraft:nether_sprouts
+- minecraft:warped_roots
+
+#curios:hands
+- curios:knuckles
+
+#biomemakeover:mushroom_fields
+- biomemakeover:mycelium_roots
+- biomemakeover:mycelium_sprouts
+- biomemakeover:tall_brown_mushroom
+- biomemakeover:tall_red_mushroom
+- biomemakeover:purple_glowshroom
+- biomemakeover:orange_glowshroom
+- biomemakeover:orange_glowshroom_block
+- biomemakeover:purple_glowshroom_block
+- biomemakeover:glowshroom_stem
+- biomemakeover:button_mushrooms_music_disk
+- biomemakeover:glowshroom_stew
+- biomemakeover:green_glowshroom
+- biomemakeover:green_glowshroom_block
+- biomemakeover:red_mushroom_brick
+- biomemakeover:brown_mushroom_brick
+- biomemakeover:purple_glowshroom_brick
+- biomemakeover:green_glowshroom_brick
+- biomemakeover:orange_glowshroom_brick
+- biomemakeover:mushroom_stem_brick
+- biomemakeover:glowshroom_stem_brick
+- biomemakeover:red_mushroom_brick_stairs
+- biomemakeover:red_mushroom_brick_slab
+- biomemakeover:red_mushroom_brick_wall
+- biomemakeover:brown_mushroom_brick_stairs
+- biomemakeover:brown_mushroom_brick_slab
+- biomemakeover:brown_mushroom_brick_wall
+- biomemakeover:purple_glowshroom_brick_stairs
+- biomemakeover:purple_glowshroom_brick_slab
+- biomemakeover:purple_glowshroom_brick_wall
+- biomemakeover:green_glowshroom_brick_stairs
+- biomemakeover:green_glowshroom_brick_slab
+- biomemakeover:green_glowshroom_brick_wall
+- biomemakeover:orange_glowshroom_brick_stairs
+- biomemakeover:orange_glowshroom_brick_slab
+- biomemakeover:orange_glowshroom_brick_wall
+- biomemakeover:mushroom_stem_brick_stairs
+- biomemakeover:mushroom_stem_brick_slab
+- biomemakeover:mushroom_stem_brick_wall
+- biomemakeover:glowshroom_stem_brick_stairs
+- biomemakeover:glowshroom_stem_brick_slab
+- biomemakeover:glowshroom_stem_brick_wall
+- biomemakeover:blighted_cobblestone_stairs
+- biomemakeover:blighted_cobblestone_slab
+- biomemakeover:blighted_cobblestone_wall
+- biomemakeover:blighted_stone_bricks_stairs
+- biomemakeover:blighted_stone_bricks_slab
+- biomemakeover:blighted_stone_bricks_wall
+- biomemakeover:blighted_stone_bricks
+- biomemakeover:blighted_cobblestone
+- biomemakeover:blighted_balsa_log
+- biomemakeover:blighted_balsa_wood
+- biomemakeover:blighted_balsa_planks
+- biomemakeover:stripped_blighted_balsa_log
+- biomemakeover:blighted_balsa_wood
+- biomemakeover:stripped_blighted_balsa_wood
+- biomemakeover:blighted_balsa_stairs
+- biomemakeover:blighted_balsa_fence
+- biomemakeover:blighted_balsa_fence_gate
+- biomemakeover:blighted_balsa_button
+- biomemakeover:blighted_balsa_trapdoor
+- biomemakeover:blighted_balsa_sapling
+- biomemakeover:blighted_balsa_leaves
+- biomemakeover:blighted_balsa_door
+- biomemakeover:blighted_balsa_pressure_plate
+- biomemakeover:blighted_balsa_slab
+- biomemakeover:blighted_balsa_boat
+- biomemakeover:blighted_balsa_sign
+- biomemakeover:glowfish
+- biomemakeover:glowfish_bucket
+- biomemakeover:cooked_glowfish
+- biomemakeover:glowfish_spawn_egg
+- biomemakeover:blightbat_spawn_egg
+- biomemakeover:mushroom_trader_spawn_egg
+- biomemakeover:blightbat_wing
+
+#cinderscapes:scorched_stems
+- cinderscapes:stripped_scorched_stem
+- cinderscapes:scorched_stem
+- cinderscapes:stripped_scorched_hyphae
+- cinderscapes:scorched_hyphae
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+- byg:aspen_trapdoor
+- byg:baobab_trapdoor
+- byg:blue_enchanted_trapdoor
+- byg:cherry_trapdoor
+- byg:cika_trapdoor
+- byg:cypress_trapdoor
+- byg:ebony_trapdoor
+- byg:fir_trapdoor
+- byg:green_enchanted_trapdoor
+- byg:holly_trapdoor
+- byg:jacaranda_trapdoor
+- byg:mahogany_trapdoor
+- byg:mangrove_trapdoor
+- byg:maple_trapdoor
+- byg:pine_trapdoor
+- byg:rainbow_eucalyptus_trapdoor
+- byg:redwood_trapdoor
+- byg:skyris_trapdoor
+- byg:willow_trapdoor
+- byg:witch_hazel_trapdoor
+- byg:zelkova_trapdoor
+- byg:sythian_trapdoor
+- byg:embur_trapdoor
+- byg:palm_trapdoor
+- byg:lament_trapdoor
+- byg:ether_trapdoor
+- byg:bulbis_trapdoor
+- byg:nightshade_trapdoor
+- betterend:lacugrove_trapdoor
+- betterend:dragon_tree_trapdoor
+- betterend:tenanea_trapdoor
+- betterend:end_lotus_trapdoor
+- betterend:helix_tree_trapdoor
+- betterend:jellyshroom_trapdoor
+- betterend:umbrella_tree_trapdoor
+- betterend:pythadendron_trapdoor
+- betterend:mossy_glowshroom_trapdoor
+
+#blockus:recrafting_end_stone_bricks
+- blockus:chiseled_end_stone_bricks
+- blockus:zigzagged_end_stone_bricks
+
+#desolation:charred_logs
+- desolation:charred_log
+
+#minecraft:boats
+- minecraft:oak_boat
+- minecraft:spruce_boat
+- minecraft:birch_boat
+- minecraft:jungle_boat
+- minecraft:acacia_boat
+- minecraft:dark_oak_boat
+
+#betterend:helix_tree_logs
+- betterend:helix_tree_stripped_log
+- betterend:helix_tree_log
+- betterend:helix_tree_stripped_bark
+- betterend:helix_tree_bark
+
+#betterend:dragon_tree_logs
+- betterend:dragon_tree_log
+- betterend:dragon_tree_bark
+- betterend:dragon_tree_stripped_log
+- betterend:dragon_tree_stripped_bark
+
+#byg:orange_dye
+- byg:orange_amaranth
+- byg:orange_daisy
+- byg:guzmania
+- byg:incan_lily
+- byg:california_poppy
+
+#byg:pink_sand
+- byg:pink_sand
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- byg:baobab_leaves
+- byg:blooming_witch_hazel_leaves
+- byg:blue_enchanted_leaves
+- byg:blue_spruce_leaves
+- byg:brown_birch_leaves
+- byg:brown_oak_leaves
+- byg:cika_leaves
+- byg:cypress_leaves
+- byg:ebony_leaves
+- byg:fir_leaves
+- byg:flowering_orchard_leaves
+- byg:flowering_palo_verde_leaves
+- byg:green_enchanted_leaves
+- byg:holly_berry_leaves
+- byg:holly_leaves
+- byg:jacaranda_leaves
+- byg:indigo_jacaranda_leaves
+- byg:mahogany_leaves
+- byg:mangrove_leaves
+- byg:maple_leaves
+- byg:orange_birch_leaves
+- byg:orange_oak_leaves
+- byg:orange_spruce_leaves
+- byg:orchard_leaves
+- byg:palo_verde_leaves
+- byg:pine_leaves
+- byg:pink_cherry_leaves
+- byg:rainbow_eucalyptus_leaves
+- byg:red_birch_leaves
+- byg:red_maple_leaves
+- byg:red_oak_leaves
+- byg:red_spruce_leaves
+- byg:redwood_leaves
+- byg:ripe_orchard_leaves
+- byg:silver_maple_leaves
+- byg:skyris_leaves
+- byg:green_apple_skyris_leaves
+- byg:white_cherry_leaves
+- byg:willow_leaves
+- byg:witch_hazel_leaves
+- byg:yellow_birch_leaves
+- byg:yellow_spruce_leaves
+- byg:aspen_leaves
+- byg:zelkova_leaves
+- byg:palm_leaves
+- byg:araucaria_leaves
+- byg:brown_zelkova_leaves
+- byg:lament_leaves
+- byg:withering_oak_leaves
+- byg:ether_leaves
+- byg:nightshade_leaves
+- byg:flowering_nightshade_leaves
+- blockus:white_oak_leaves
+- desolation:charred_branches
+- biomemakeover:blighted_balsa_leaves
+- biomemakeover:willow_leaves
+- biomemakeover:swamp_cypress_leaves
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- byg:dacite_cobblestone_wall
+- byg:dacite_wall
+- byg:dacite_tile_wall
+- byg:dacite_brick_wall
+- byg:mossy_stone_wall
+- byg:rocky_stone_wall
+- byg:scoria_stone_wall
+- byg:scoria_cobblestone_wall
+- byg:scoria_stonebrick_wall
+- byg:soapstone_wall
+- byg:polished_soapstone_wall
+- byg:soapstone_brick_wall
+- byg:soapstone_tile_wall
+- byg:red_rock_wall
+- byg:red_rock_brick_wall
+- byg:mossy_red_rock_brick_wall
+- byg:cracked_red_rock_brick_wall
+- byg:chiseled_red_rock_brick_wall
+- byg:ether_stone_wall
+- byg:purpur_stone_wall
+- byg:cryptic_stone_wall
+- blockus:blaze_bricks_wall
+- blockus:lava_bricks_wall
+- blockus:soul_sandstone_wall
+- blockus:caution_barrier
+- blockus:road_barrier
+- blockus:charred_nether_bricks_wall
+- blockus:soaked_bricks_wall
+- blockus:magma_bricks_wall
+- blockus:limestone_bricks_wall
+- blockus:obsidian_bricks_wall
+- blockus:rainbow_bricks_wall
+- blockus:water_bricks_wall
+- blockus:marble_bricks_wall
+- blockus:small_hedge
+- blockus:spruce_small_hedge
+- blockus:birch_small_hedge
+- blockus:jungle_small_hedge
+- blockus:acacia_small_hedge
+- blockus:dark_oak_small_hedge
+- blockus:white_oak_small_hedge
+- blockus:honeycomb_bricks_wall
+- blockus:sandy_bricks_wall
+- blockus:charred_bricks_wall
+- blockus:teal_nether_brick_wall
+- blockus:lava_polished_blackstone_wall
+- blockus:crimson_warty_blackstone_bricks_wall
+- blockus:warped_warty_blackstone_bricks_wall
+- blockus:snow_bricks_wall
+- blockus:ice_bricks_wall
+- biomemakeover:red_mushroom_brick_wall
+- biomemakeover:brown_mushroom_brick_wall
+- biomemakeover:glowshroom_stem_brick_wall
+- biomemakeover:mushroom_stem_brick_wall
+- biomemakeover:purple_glowshroom_brick_wall
+- biomemakeover:green_glowshroom_brick_wall
+- biomemakeover:orange_glowshroom_brick_wall
+- biomemakeover:blighted_cobblestone_wall
+- biomemakeover:blighted_stone_bricks_wall
+- biomemakeover:terracotta_brick_wall
+- biomemakeover:black_terracotta_brick_wall
+- biomemakeover:red_terracotta_brick_wall
+- biomemakeover:green_terracotta_brick_wall
+- biomemakeover:brown_terracotta_brick_wall
+- biomemakeover:blue_terracotta_brick_wall
+- biomemakeover:purple_terracotta_brick_wall
+- biomemakeover:cyan_terracotta_brick_wall
+- biomemakeover:light_gray_terracotta_brick_wall
+- biomemakeover:gray_terracotta_brick_wall
+- biomemakeover:pink_terracotta_brick_wall
+- biomemakeover:lime_terracotta_brick_wall
+- biomemakeover:yellow_terracotta_brick_wall
+- biomemakeover:light_blue_terracotta_brick_wall
+- biomemakeover:magenta_terracotta_brick_wall
+- biomemakeover:orange_terracotta_brick_wall
+- biomemakeover:white_terracotta_brick_wall
+- biomemakeover:dried_peat_bricks_wall
+
+#blockus:recrafting_polished_diorite
+- blockus:diorite_bricks
+- blockus:zigzagged_diorite
+- blockus:diorite_circle_pavement
+
+#byg:baobab_logs
+- byg:baobab_log
+- byg:stripped_baobab_log
+- byg:baobab_wood
+- byg:stripped_baobab_wood
+
+#curios:cosmetic_boots
+- minecraft:leather_boots
+- minecraft:iron_boots
+- minecraft:golden_boots
+- minecraft:chainmail_boots
+- minecraft:diamond_boots
+- minecraft:netherite_boots
+- minecraft:leather_boots
+- minecraft:iron_boots
+- minecraft:golden_boots
+- minecraft:chainmail_boots
+- minecraft:diamond_boots
+- minecraft:netherite_boots
+- betternether:cincinnasite_boots
+- betternether:nether_ruby_boots
+- adventurez:stone_golem_boots
+- battletowers:key_boots
+- mmorpg:armor/leather/boots/leather_boots0
+- mmorpg:armor/leather/boots/leather_boots1
+- mmorpg:armor/leather/boots/leather_boots2
+- mmorpg:armor/leather/boots/leather_boots3
+- mmorpg:armor/leather/boots/leather_boots4
+- mmorpg:armor/cloth/boots/cloth_boots0
+- mmorpg:armor/cloth/boots/cloth_boots1
+- mmorpg:armor/cloth/boots/cloth_boots2
+- mmorpg:armor/cloth/boots/cloth_boots3
+- mmorpg:armor/cloth/boots/cloth_boots4
+- mmorpg:armor/plate/boots/plate_boots0
+- mmorpg:armor/plate/boots/plate_boots1
+- mmorpg:armor/plate/boots/plate_boots2
+- mmorpg:armor/plate/boots/plate_boots3
+- mmorpg:armor/plate/boots/plate_boots4
+- byg:ametrine_boots
+- dragonloot:dragon_boots
+- betterend:terminite_boots
+- betterend:aeternium_boots
+- betterend:crystalite_boots
+- mcda:beenest_armor_boots
+- mcda:beehive_armor_boots
+- mcda:champions_armor_boots
+- mcda:heros_armor_boots
+- mcda:dark_armor_boots
+- mcda:titans_shroud_boots
+- mcda:ghostly_armor_boots
+- mcda:ghost_kindler_boots
+- mcda:grim_armor_boots
+- mcda:wither_armor_boots
+- mcda:guards_armor_boots
+- mcda:curious_armor_boots
+- mcda:mercenary_armor_boots
+- mcda:renegade_armor_boots
+- mcda:hungry_horror_boots
+- mcda:white_mystery_armor_boots
+- mcda:blue_mystery_armor_boots
+- mcda:green_mystery_armor_boots
+- mcda:purple_mystery_armor_boots
+- mcda:red_mystery_armor_boots
+- mcda:ocelot_armor_boots
+- mcda:shadow_walker_armor_boots
+- mcda:phantom_armor_boots
+- mcda:frost_bite_armor_boots
+- mcda:plate_armor_boots
+- mcda:full_metal_armor_boots
+- mcda:reinforced_mail_boots
+- mcda:stalwart_armor_boots
+- mcda:highland_armor_boots
+- mcda:snow_armor_boots
+- mcda:frost_armor_boots
+- mcda:spelunker_armor_boots
+- mcda:cave_crawler_boots
+- mcda:archers_boots
+- mcda:scale_mail_boots
+- mcda:soul_robe_boots
+- mcda:souldancer_robe_boots
+- mcda:thief_armor_boots
+- mcda:spider_armor_boots
+- mcda:wolf_armor_boots
+- mcda:black_wolf_armor_boots
+- mcda:fox_armor_boots
+
+#byg:black_dye
+- byg:black_rose
+
+#byg:mangrove_logs
+- byg:mangrove_log
+- byg:stripped_mangrove_log
+- byg:mangrove_wood
+- byg:stripped_mangrove_wood
+
+#byg:witch_hazel_logs
+- byg:witch_hazel_log
+- byg:stripped_witch_hazel_log
+- byg:witch_hazel_wood
+- byg:stripped_witch_hazel_wood
+
+#byg:purple_dye
+- byg:allium_flower_bush
+- byg:alpine_bellflower
+- byg:iris
+- byg:purple_orchid
+- byg:purple_sage
+- byg:purple_tulip
+- byg:purple_amaranth
+- byg:crocus
+- byg:tall_allium
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+- blockus:acacia_small_logs
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores
+- minecraft:gold_block
+- minecraft:gilded_blackstone
+- minecraft:light_weighted_pressure_plate
+- minecraft:gold_ingot
+- minecraft:bell
+- minecraft:clock
+- minecraft:golden_carrot
+- minecraft:glistering_melon_slice
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+- minecraft:golden_horse_armor
+- minecraft:golden_sword
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+- #minecraft:gold_ores
+- minecraft:gold_block
+- blockus:legacy_gold_block
+- blockus:legacy_explosion_proof_gold_block
+- blockus:golden_chain
+- blockus:golden_bars
+- blockus:golden_gate
+- minecraft:gilded_blackstone
+- minecraft:light_weighted_pressure_plate
+- minecraft:gold_nugget
+- minecraft:gold_ingot
+- minecraft:bell
+- minecraft:clock
+- minecraft:golden_carrot
+- minecraft:glistering_melon_slice
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+- minecraft:golden_horse_armor
+- minecraft:golden_sword
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+- expandedstorage:gold_chest
+- expandedstorage:old_gold_chest
+- expandedstorage:wood_to_gold_conversion_kit
+- expandedstorage:iron_to_gold_conversion_kit
+- expandedstorage:gold_to_diamond_conversion_kit
+- expandedstorage:gold_to_obsidian_conversion_kit
+- expandedstorage:gold_to_netherite_conversion_kit
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs
+- minecraft:music_disc_pigstep
+
+#byg:mahogany_logs
+- byg:mahogany_log
+- byg:stripped_mahogany_log
+- byg:mahogany_wood
+- byg:stripped_mahogany_wood
+
+#c:stone
+- byg:soapstone
+- byg:scoria_stone
+- byg:dacite
+- byg:rocky_stone
+- byg:mossy_stone
+- byg:overgrown_stone
+- byg:overgrown_dacite
+- byg:overgrown_netherrack
+- byg:sythian_nylium
+- byg:podzol_dacite
+- byg:red_rock
+- byg:ether_stone
+
+#curios:head
+- curios:crown
+
+#byg:lament_logs
+- byg:lament_log
+- byg:stripped_lament_log
+- byg:lament_wood
+- byg:stripped_lament_wood
+
+#blockus:recrafting_polished_blackstone
+- minecraft:chiseled_polished_blackstone
+- minecraft:polished_blackstone_bricks
+- blockus:zigzagged_polished_blackstone
+- blockus:polished_blackstone_pillar
+- blockus:polished_blackstone_circle_pavement
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+
+#battletowers:developer_items
+- battletowers:content_deployer
+- battletowers:ladder_deployer
+
+#blockus:recrafting_purpur_block
+- blockus:smooth_purpur
+- blockus:purpur_bricks
+- minecraft:purpur_pillar
+- blockus:purpur_little_bricks
+- blockus:purpur_squares
+- blockus:chiseled_purpur
+- blockus:purpur_lines
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- #byg:aspen_logs
+- #byg:baobab_logs
+- #byg:blue_enchanted_logs
+- #byg:cherry_logs
+- #byg:cika_logs
+- #byg:cypress_logs
+- #byg:ebony_logs
+- #byg:fir_logs
+- #byg:green_enchanted_logs
+- #byg:holly_logs
+- #byg:jacaranda_logs
+- #byg:mahogany_logs
+- #byg:mangrove_logs
+- #byg:maple_logs
+- #byg:palo_verde_logs
+- #byg:pine_logs
+- #byg:rainbow_eucalyptus_logs
+- #byg:redwood_logs
+- #byg:skyris_logs
+- #byg:willow_logs
+- #byg:witch_hazel_logs
+- #byg:zelkova_logs
+- #byg:palm_logs
+- #byg:bulbis_stems
+- #byg:ether_logs
+- #byg:nightshade_logs
+- #byg:withering_oak_logs
+- #blockus:white_oak_logs
+- biomemakeover:blighted_balsa_log
+- biomemakeover:stripped_blighted_balsa_log
+- biomemakeover:blighted_balsa_wood
+- biomemakeover:stripped_blighted_balsa_wood
+- biomemakeover:willow_log
+- biomemakeover:stripped_willow_log
+- biomemakeover:willow_wood
+- biomemakeover:stripped_willow_wood
+- biomemakeover:swamp_cypress_log
+- biomemakeover:stripped_swamp_cypress_log
+- biomemakeover:swamp_cypress_wood
+- biomemakeover:stripped_swamp_cypress_wood
+- betterend:pythadendron_bark
+- betterend:lacugrove_bark
+- betterend:helix_tree_stripped_log
+- betterend:umbrella_tree_stripped_bark
+- betterend:mossy_glowshroom_stripped_log
+- betterend:umbrella_tree_stripped_log
+- betterend:pythadendron_stripped_log
+- betterend:end_lotus_bark
+- betterend:tenanea_log
+- betterend:jellyshroom_bark
+- betterend:pythadendron_stripped_bark
+- betterend:jellyshroom_stripped_log
+- betterend:dragon_tree_stripped_log
+- betterend:tenanea_stripped_bark
+- betterend:helix_tree_bark
+- betterend:mossy_glowshroom_stripped_bark
+- betterend:dragon_tree_stripped_bark
+- betterend:lacugrove_log
+- betterend:mossy_glowshroom_bark
+- betterend:pythadendron_log
+- betterend:end_lotus_log
+- betterend:mossy_glowshroom_log
+- betterend:dragon_tree_log
+- betterend:tenanea_bark
+- betterend:umbrella_tree_bark
+- betterend:jellyshroom_log
+- betterend:end_lotus_stripped_log
+- betterend:dragon_tree_bark
+- betterend:tenanea_stripped_log
+- betterend:lacugrove_stripped_log
+- betterend:end_lotus_stripped_bark
+- betterend:lacugrove_stripped_bark
+- betterend:helix_tree_log
+- betterend:umbrella_tree_log
+- betterend:jellyshroom_stripped_bark
+- betterend:helix_tree_stripped_bark
+
+#curios:cosmetic_leggings
+- minecraft:leather_leggings
+- minecraft:iron_leggings
+- minecraft:golden_leggings
+- minecraft:chainmail_leggings
+- minecraft:diamond_leggings
+- minecraft:netherite_leggings
+- minecraft:leather_leggings
+- minecraft:iron_leggings
+- minecraft:golden_leggings
+- minecraft:chainmail_leggings
+- minecraft:diamond_leggings
+- minecraft:netherite_leggings
+- minecraft:dragon_head
+- betternether:cincinnasite_leggings
+- betternether:nether_ruby_leggings
+- adventurez:stone_golem_leggings
+- battletowers:key_leggings
+- mmorpg:armor/leather/pants/leather_pants0
+- mmorpg:armor/leather/pants/leather_pants1
+- mmorpg:armor/leather/pants/leather_pants2
+- mmorpg:armor/leather/pants/leather_pants3
+- mmorpg:armor/leather/pants/leather_pants4
+- mmorpg:armor/cloth/pants/cloth_pants0
+- mmorpg:armor/cloth/pants/cloth_pants1
+- mmorpg:armor/cloth/pants/cloth_pants2
+- mmorpg:armor/cloth/pants/cloth_pants3
+- mmorpg:armor/cloth/pants/cloth_pants4
+- mmorpg:armor/plate/pants/plate_pants0
+- mmorpg:armor/plate/pants/plate_pants1
+- mmorpg:armor/plate/pants/plate_pants2
+- mmorpg:armor/plate/pants/plate_pants3
+- mmorpg:armor/plate/pants/plate_pants4
+- byg:ametrine_leggings
+- dragonloot:dragon_leggings
+- betterend:terminite_leggings
+- betterend:aeternium_leggings
+- betterend:crystalite_leggings
+- mcda:beenest_armor_leggings
+- mcda:beehive_armor_leggings
+- mcda:champions_armor_leggings
+- mcda:heros_armor_leggings
+- mcda:dark_armor_leggings
+- mcda:titans_shroud_leggings
+- mcda:ghostly_armor_leggings
+- mcda:ghost_kindler_leggings
+- mcda:grim_armor_leggings
+- mcda:wither_armor_leggings
+- mcda:guards_armor_leggings
+- mcda:curious_armor_leggings
+- mcda:mercenary_armor_leggings
+- mcda:renegade_armor_leggings
+- mcda:hungry_horror_leggings
+- mcda:white_mystery_armor_leggings
+- mcda:blue_mystery_armor_leggings
+- mcda:green_mystery_armor_leggings
+- mcda:purple_mystery_armor_leggings
+- mcda:red_mystery_armor_leggings
+- mcda:ocelot_armor_leggings
+- mcda:shadow_walker_armor_leggings
+- mcda:phantom_armor_leggings
+- mcda:frost_bite_armor_leggings
+- mcda:plate_armor_leggings
+- mcda:full_metal_armor_leggings
+- mcda:reinforced_mail_leggings
+- mcda:stalwart_armor_leggings
+- mcda:highland_armor_leggings
+- mcda:snow_armor_leggings
+- mcda:frost_armor_leggings
+- mcda:spelunker_armor_leggings
+- mcda:cave_crawler_leggings
+- mcda:archers_leggings
+- mcda:scale_mail_leggings
+- mcda:soul_robe_leggings
+- mcda:souldancer_robe_leggings
+- mcda:thief_armor_leggings
+- mcda:spider_armor_leggings
+- mcda:wolf_armor_leggings
+- mcda:black_wolf_armor_leggings
+- mcda:fox_armor_leggings
+- mcda:battle_robe_leggings
+- mcda:splendid_robe_leggings
+- mcda:evocation_robe_leggings
+- mcda:ember_robe_leggings
+- mcda:verdant_robe_leggings
+
+#blockus:stained_stone_bricks
+- blockus:white_stone_bricks
+- blockus:orange_stone_bricks
+- blockus:magenta_stone_bricks
+- blockus:light_blue_stone_bricks
+- blockus:yellow_stone_bricks
+- blockus:lime_stone_bricks
+- blockus:pink_stone_bricks
+- blockus:gray_stone_bricks
+- minecraft:stone_bricks
+- blockus:cyan_stone_bricks
+- blockus:purple_stone_bricks
+- blockus:blue_stone_bricks
+- blockus:brown_stone_bricks
+- blockus:green_stone_bricks
+- blockus:red_stone_bricks
+- blockus:black_stone_bricks
+
+#fabric:hoes
+- betternether:cincinnasite_hoe
+- betternether:cincinnasite_hoe_diamond
+- betternether:nether_ruby_hoe
+- byg:pendorite_hoe
+- minecraft:wooden_hoe
+- minecraft:stone_hoe
+- minecraft:iron_hoe
+- minecraft:golden_hoe
+- minecraft:diamond_hoe
+- minecraft:netherite_hoe
+- betterend:terminite_hoe
+- betterend:thallasium_hoe
+- betterend:aeternium_hoe
+
+#byg:blue_dye
+- byg:azalea
+- byg:delphinium
+- byg:blue_sage
+- byg:violet_leather_flower
+- byg:blueberries
+
+#extraalchemy:potion_for_bag
+- minecraft:potion
+- extraalchemy:breakable_potion
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot
+- minecraft:emerald
+- minecraft:diamond
+- minecraft:gold_ingot
+- minecraft:iron_ingot
+- byg:ametrine_gems
+- byg:pendorite_scraps
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- betternether:stalagnate_planks_slab
+- betternether:reeds_slab
+- betternether:willow_slab
+- betternether:wart_slab
+- betternether:mushroom_fir_slab
+- betternether:rubeus_slab
+- betternether:anchor_tree_slab
+- byg:aspen_slab
+- byg:baobab_slab
+- byg:blue_enchanted_slab
+- byg:cherry_slab
+- byg:cika_slab
+- byg:cypress_slab
+- byg:ebony_slab
+- byg:fir_slab
+- byg:green_enchanted_slab
+- byg:holly_slab
+- byg:jacaranda_slab
+- byg:mahogany_slab
+- byg:mangrove_slab
+- byg:maple_slab
+- byg:pine_slab
+- byg:rainbow_eucalyptus_slab
+- byg:redwood_slab
+- byg:skyris_slab
+- byg:willow_slab
+- byg:witch_hazel_slab
+- byg:zelkova_slab
+- byg:sythian_slab
+- byg:embur_slab
+- byg:palm_slab
+- byg:lament_slab
+- byg:ether_slab
+- byg:bulbis_slab
+- byg:nightshade_slab
+- cinderscapes:scorched_slab
+- cinderscapes:umbral_slab
+- blockus:bamboo_slab
+- blockus:charred_slab
+- blockus:white_oak_slab
+- desolation:charred_slab
+- biomemakeover:blighted_balsa_slab
+- biomemakeover:willow_slab
+- biomemakeover:swamp_cypress_slab
+- betterend:jellyshroom_slab
+- betterend:tenanea_slab
+- betterend:helix_tree_slab
+- betterend:pythadendron_slab
+- betterend:mossy_glowshroom_slab
+- betterend:umbrella_tree_slab
+- betterend:dragon_tree_slab
+- betterend:lacugrove_slab
+- betterend:end_lotus_slab
+
+#c:wooden_chests
+- minecraft:chest
+- minecraft:trapped_chest
+- expandedstorage:wood_chest
+
+#byg:gray_dye
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+- byg:allium_flower_bush
+- byg:alpine_bellflower
+- byg:amaranth
+- byg:angelica
+- byg:azalea
+- byg:begonia
+- byg:bistort
+- byg:blue_sage
+- byg:black_rose
+- byg:california_poppy
+- byg:crocus
+- byg:cyan_amaranth
+- byg:cyan_rose
+- byg:cyan_tulip
+- byg:daffodil
+- byg:delphinium
+- byg:fairy_slipper
+- byg:firecracker_flower_bush
+- byg:foxglove
+- byg:golden_spined_cactus
+- byg:green_tulip
+- byg:guzmania
+- byg:incan_lily
+- byg:iris
+- byg:japanese_orchid
+- byg:kovan_flower
+- byg:lazarus_bellflower
+- byg:lolipop_flower
+- byg:magenta_amaranth
+- byg:magenta_tulip
+- byg:orange_amaranth
+- byg:orange_daisy
+- byg:osiria_rose
+- byg:peach_leather_flower
+- byg:pink_allium
+- byg:pink_allium_flower_bush
+- byg:pink_anemone
+- byg:pink_daffodil
+- byg:pink_orchid
+- byg:prairie_grass
+- byg:protea_flower
+- byg:purple_amaranth
+- byg:purple_orchid
+- byg:purple_sage
+- byg:purple_tulip
+- byg:red_cornflower
+- byg:red_orchid
+- byg:richea
+- byg:rose
+- byg:snowdrops
+- byg:silver_vase_flower
+- byg:torch_ginger
+- byg:violet_leather_flower
+- byg:white_anemone
+- byg:white_sage
+- byg:winter_rose
+- byg:winter_cyclamen
+- byg:winter_scilla
+- byg:yellow_daffodil
+- byg:yellow_tulip
+- byg:pollen_block
+- byg:tall_allium
+- byg:tall_pink_allium
+- byg:thereal_bellflower
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- byg:aspen_trapdoor
+- byg:baobab_trapdoor
+- byg:blue_enchanted_trapdoor
+- byg:cherry_trapdoor
+- byg:cika_trapdoor
+- byg:cypress_trapdoor
+- byg:ebony_trapdoor
+- byg:fir_trapdoor
+- byg:green_enchanted_trapdoor
+- byg:holly_trapdoor
+- byg:jacaranda_trapdoor
+- byg:mahogany_trapdoor
+- byg:mangrove_trapdoor
+- byg:maple_trapdoor
+- byg:pine_trapdoor
+- byg:rainbow_eucalyptus_trapdoor
+- byg:redwood_trapdoor
+- byg:skyris_trapdoor
+- byg:willow_trapdoor
+- byg:witch_hazel_trapdoor
+- byg:zelkova_trapdoor
+- byg:sythian_trapdoor
+- byg:embur_trapdoor
+- byg:palm_trapdoor
+- byg:lament_trapdoor
+- byg:ether_trapdoor
+- byg:bulbis_trapdoor
+- byg:nightshade_trapdoor
+- cinderscapes:scorched_trapdoor
+- cinderscapes:umbral_trapdoor
+- blockus:bamboo_trapdoor
+- blockus:charred_trapdoor
+- blockus:white_oak_trapdoor
+- desolation:charred_trapdoor
+- biomemakeover:blighted_balsa_trapdoor
+- biomemakeover:willow_trapdoor
+- biomemakeover:swamp_cypress_trapdoor
+- betterend:lacugrove_trapdoor
+- betterend:dragon_tree_trapdoor
+- betterend:tenanea_trapdoor
+- betterend:end_lotus_trapdoor
+- betterend:helix_tree_trapdoor
+- betterend:jellyshroom_trapdoor
+- betterend:umbrella_tree_trapdoor
+- betterend:pythadendron_trapdoor
+- betterend:mossy_glowshroom_trapdoor
+
+#minecraft:golden_apples
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+
+#c:fence_gates
+- byg:aspen_fence_gate
+- byg:baobab_fence_gate
+- byg:blue_enchanted_fence_gate
+- byg:cherry_fence_gate
+- byg:cika_fence_gate
+- byg:cypress_fence_gate
+- byg:ebony_fence_gate
+- byg:fir_fence_gate
+- byg:green_enchanted_fence_gate
+- byg:holly_fence_gate
+- byg:jacaranda_fence_gate
+- byg:mahogany_fence_gate
+- byg:mangrove_fence_gate
+- byg:maple_fence_gate
+- byg:pine_fence_gate
+- byg:rainbow_eucalyptus_fence_gate
+- byg:redwood_fence_gate
+- byg:skyris_fence_gate
+- byg:willow_fence_gate
+- byg:witch_hazel_fence_gate
+- byg:zelkova_fence_gate
+- byg:sythian_fence_gate
+- byg:embur_fence_gate
+- byg:palm_fence_gate
+- byg:lament_fence_gate
+
+#heartbond:soul_crafting_items
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#byg:yellow_dye
+- byg:lolipop_flower
+- byg:yellow_daffodil
+- byg:yellow_tulip
+
+#byg:withering_oak_logs
+- byg:withering_oak_log
+- byg:withering_oak_wood
+
+#byg:green_dye
+- byg:golden_spined_cactus
+- byg:horseweed
+- byg:mini_cactus
+- byg:prickly_pear_cactus
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- byg:aspen_stairs
+- byg:baobab_stairs
+- byg:blue_enchanted_stairs
+- byg:cherry_stairs
+- byg:cika_stairs
+- byg:cypress_stairs
+- byg:ebony_stairs
+- byg:fir_stairs
+- byg:green_enchanted_stairs
+- byg:holly_stairs
+- byg:jacaranda_stairs
+- byg:mahogany_stairs
+- byg:mangrove_stairs
+- byg:maple_stairs
+- byg:pine_stairs
+- byg:rainbow_eucalyptus_stairs
+- byg:redwood_stairs
+- byg:skyris_stairs
+- byg:willow_stairs
+- byg:witch_hazel_stairs
+- byg:zelkova_stairs
+- byg:dacite_cobblestone_stairs
+- byg:mossy_stone_stairs
+- byg:rocky_stone_stairs
+- byg:scoria_stone_stairs
+- byg:scoria_cobblestone_stairs
+- byg:scoria_stonebrick_stairs
+- byg:soapstone_stairs
+- byg:polished_soapstone_stairs
+- byg:soapstone_brick_stairs
+- byg:soapstone_tile_stairs
+- byg:red_rock_stairs
+- byg:red_rock_brick_stairs
+- byg:mossy_red_rock_brick_stairs
+- byg:cracked_red_rock_brick_stairs
+- byg:chiseled_red_rock_brick_stairs
+- byg:sythian_stairs
+- byg:embur_stairs
+- byg:palm_stairs
+- byg:lament_stairs
+- byg:ether_stairs
+- byg:bulbis_stairs
+- byg:nightshade_stairs
+- byg:ether_stone_stairs
+- byg:purpur_stone_stairs
+- cinderscapes:sulfur_quartz_stairs
+- cinderscapes:smooth_sulfur_quartz_stairs
+- cinderscapes:rose_quartz_stairs
+- cinderscapes:smooth_rose_quartz_stairs
+- cinderscapes:smoky_quartz_stairs
+- cinderscapes:smooth_smoky_quartz_stairs
+- biomemakeover:red_mushroom_brick_stairs
+- biomemakeover:brown_mushroom_brick_stairs
+- biomemakeover:glowshroom_stem_brick_stairs
+- biomemakeover:mushroom_stem_brick_stairs
+- biomemakeover:purple_glowshroom_brick_stairs
+- biomemakeover:green_glowshroom_brick_stairs
+- biomemakeover:orange_glowshroom_brick_stairs
+- biomemakeover:blighted_cobblestone_stairs
+- biomemakeover:blighted_stone_bricks_stairs
+- biomemakeover:terracotta_brick_stairs
+- biomemakeover:black_terracotta_brick_stairs
+- biomemakeover:red_terracotta_brick_stairs
+- biomemakeover:green_terracotta_brick_stairs
+- biomemakeover:brown_terracotta_brick_stairs
+- biomemakeover:blue_terracotta_brick_stairs
+- biomemakeover:purple_terracotta_brick_stairs
+- biomemakeover:cyan_terracotta_brick_stairs
+- biomemakeover:light_gray_terracotta_brick_stairs
+- biomemakeover:gray_terracotta_brick_stairs
+- biomemakeover:pink_terracotta_brick_stairs
+- biomemakeover:lime_terracotta_brick_stairs
+- biomemakeover:yellow_terracotta_brick_stairs
+- biomemakeover:light_blue_terracotta_brick_stairs
+- biomemakeover:magenta_terracotta_brick_stairs
+- biomemakeover:orange_terracotta_brick_stairs
+- biomemakeover:white_terracotta_brick_stairs
+- biomemakeover:blighted_balsa_stairs
+- biomemakeover:willow_stairs
+- biomemakeover:swamp_cypress_stairs
+- biomemakeover:dried_peat_bricks_stairs
+- betterend:helix_tree_stairs
+- betterend:jellyshroom_stairs
+- betterend:umbrella_tree_stairs
+- betterend:lacugrove_stairs
+- betterend:dragon_tree_stairs
+- betterend:pythadendron_stairs
+- betterend:tenanea_stairs
+- betterend:mossy_glowshroom_stairs
+- betterend:end_lotus_stairs
+
+#curios:cosmetic_chestplate
+- minecraft:leather_chestplate
+- minecraft:iron_chestplate
+- minecraft:golden_chestplate
+- minecraft:chainmail_chestplate
+- minecraft:diamond_chestplate
+- minecraft:netherite_chestplate
+- minecraft:leather_chestplate
+- minecraft:iron_chestplate
+- minecraft:golden_chestplate
+- minecraft:chainmail_chestplate
+- minecraft:diamond_chestplate
+- minecraft:netherite_chestplate
+- betternether:cincinnasite_chestplate
+- betternether:nether_ruby_chestplate
+- adventurez:stone_golem_chestplate
+- battletowers:key_chestplate
+- mmorpg:armor/leather/chest/leather_chest0
+- mmorpg:armor/leather/chest/leather_chest1
+- mmorpg:armor/leather/chest/leather_chest2
+- mmorpg:armor/leather/chest/leather_chest3
+- mmorpg:armor/leather/chest/leather_chest4
+- mmorpg:armor/cloth/chest/cloth_chest0
+- mmorpg:armor/cloth/chest/cloth_chest1
+- mmorpg:armor/cloth/chest/cloth_chest2
+- mmorpg:armor/cloth/chest/cloth_chest3
+- mmorpg:armor/cloth/chest/cloth_chest4
+- mmorpg:armor/plate/chest/plate_chest0
+- mmorpg:armor/plate/chest/plate_chest1
+- mmorpg:armor/plate/chest/plate_chest2
+- mmorpg:armor/plate/chest/plate_chest3
+- mmorpg:armor/plate/chest/plate_chest4
+- byg:ametrine_chestplate
+- dragonloot:dragon_chestplate
+- betterend:terminite_chestplate
+- betterend:aeternium_chestplate
+- betterend:crystalite_chestplate
+- mcda:beenest_armor_chestplate
+- mcda:beehive_armor_chestplate
+- mcda:champions_armor_chestplate
+- mcda:heros_armor_chestplate
+- mcda:dark_armor_chestplate
+- mcda:titans_shroud_chestplate
+- mcda:ghostly_armor_chestplate
+- mcda:ghost_kindler_chestplate
+- mcda:grim_armor_chestplate
+- mcda:wither_armor_chestplate
+- mcda:guards_armor_chestplate
+- mcda:curious_armor_chestplate
+- mcda:mercenary_armor_chestplate
+- mcda:renegade_armor_chestplate
+- mcda:hungry_horror_chestplate
+- mcda:white_mystery_armor_chestplate
+- mcda:blue_mystery_armor_chestplate
+- mcda:green_mystery_armor_chestplate
+- mcda:purple_mystery_armor_chestplate
+- mcda:red_mystery_armor_chestplate
+- mcda:ocelot_armor_chestplate
+- mcda:shadow_walker_armor_chestplate
+- mcda:phantom_armor_chestplate
+- mcda:frost_bite_armor_chestplate
+- mcda:plate_armor_chestplate
+- mcda:full_metal_armor_chestplate
+- mcda:reinforced_mail_chestplate
+- mcda:stalwart_armor_chestplate
+- mcda:highland_armor_chestplate
+- mcda:snow_armor_chestplate
+- mcda:frost_armor_chestplate
+- mcda:spelunker_armor_chestplate
+- mcda:cave_crawler_chestplate
+- mcda:archers_chestplate
+- mcda:scale_mail_chestplate
+- mcda:soul_robe_chestplate
+- mcda:souldancer_robe_chestplate
+- mcda:thief_armor_chestplate
+- mcda:spider_armor_chestplate
+- mcda:wolf_armor_chestplate
+- mcda:black_wolf_armor_chestplate
+- mcda:fox_armor_chestplate
+- mcda:battle_robe_chestplate
+- mcda:splendid_robe_chestplate
+- mcda:evocation_robe_chestplate
+- mcda:ember_robe_chestplate
+- mcda:verdant_robe_chestplate
+- mcda:hunters_chestplate
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+- #byg:aspen_logs
+- #byg:baobab_logs
+- #byg:blue_enchanted_logs
+- #byg:cherry_logs
+- #byg:cika_logs
+- #byg:cypress_logs
+- #byg:ebony_logs
+- #byg:fir_logs
+- #byg:green_enchanted_logs
+- #byg:holly_logs
+- #byg:jacaranda_logs
+- #byg:mahogany_logs
+- #byg:mangrove_logs
+- #byg:maple_logs
+- #byg:palo_verde_logs
+- #byg:pine_logs
+- #byg:rainbow_eucalyptus_logs
+- #byg:redwood_logs
+- #byg:skyris_logs
+- #byg:willow_logs
+- #byg:witch_hazel_logs
+- #byg:zelkova_logs
+- #byg:sythian_stems
+- #byg:embur_pedus
+- #byg:palm_logs
+- #byg:lament_logs
+- #byg:bulbis_stems
+- #byg:ether_logs
+- #byg:nightshade_logs
+- #byg:withering_oak_logs
+- byg:imbued_nightshade_log
+- #cinderscapes:scorched_stems
+- #cinderscapes:umbral_stems
+- #blockus:white_oak_logs
+- desolation:charred_log
+- biomemakeover:blighted_balsa_log
+- biomemakeover:stripped_blighted_balsa_log
+- biomemakeover:blighted_balsa_wood
+- biomemakeover:stripped_blighted_balsa_wood
+- biomemakeover:willow_log
+- biomemakeover:stripped_willow_log
+- biomemakeover:willow_wood
+- biomemakeover:stripped_willow_wood
+- biomemakeover:swamp_cypress_log
+- biomemakeover:stripped_swamp_cypress_log
+- biomemakeover:swamp_cypress_wood
+- biomemakeover:stripped_swamp_cypress_wood
+- betterend:pythadendron_bark
+- betterend:lacugrove_bark
+- betterend:helix_tree_stripped_log
+- betterend:umbrella_tree_stripped_bark
+- betterend:mossy_glowshroom_stripped_log
+- betterend:umbrella_tree_stripped_log
+- betterend:pythadendron_stripped_log
+- betterend:end_lotus_bark
+- betterend:tenanea_log
+- betterend:jellyshroom_bark
+- betterend:pythadendron_stripped_bark
+- betterend:jellyshroom_stripped_log
+- betterend:dragon_tree_stripped_log
+- betterend:tenanea_stripped_bark
+- betterend:helix_tree_bark
+- betterend:mossy_glowshroom_stripped_bark
+- betterend:dragon_tree_stripped_bark
+- betterend:lacugrove_log
+- betterend:mossy_glowshroom_bark
+- betterend:pythadendron_log
+- betterend:end_lotus_log
+- betterend:mossy_glowshroom_log
+- betterend:dragon_tree_log
+- betterend:tenanea_bark
+- betterend:umbrella_tree_bark
+- betterend:jellyshroom_log
+- betterend:end_lotus_stripped_log
+- betterend:dragon_tree_bark
+- betterend:tenanea_stripped_log
+- betterend:lacugrove_stripped_log
+- betterend:end_lotus_stripped_bark
+- betterend:lacugrove_stripped_bark
+- betterend:helix_tree_log
+- betterend:umbrella_tree_log
+- betterend:jellyshroom_stripped_bark
+- betterend:helix_tree_stripped_bark
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13
+- minecraft:music_disc_cat
+- minecraft:music_disc_blocks
+- minecraft:music_disc_chirp
+- minecraft:music_disc_far
+- minecraft:music_disc_mall
+- minecraft:music_disc_mellohi
+- minecraft:music_disc_stal
+- minecraft:music_disc_strad
+- minecraft:music_disc_ward
+- minecraft:music_disc_11
+- minecraft:music_disc_wait
+
+#c:elytra
+- minecraft:elytra
+- enderitemod:enderite_elytra_seperated?
+- netherite_plus:netherite_elytra?
+
+#byg:redwood_logs
+- byg:redwood_log
+- byg:stripped_redwood_log
+- byg:redwood_wood
+- byg:stripped_redwood_wood
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:tipped_arrow
+- minecraft:spectral_arrow
+
+#c:gems
+- byg:ametrine_gems
+
+#byg:brown_dye
+- byg:reeds
+
+#blockus:recrafting_red_sandstone
+- minecraft:smooth_red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- blockus:red_sandstone_bricks
+- blockus:small_red_sandstone_bricks
+
+#byg:ether_logs
+- byg:ether_log
+- byg:stripped_ether_log
+- byg:ether_wood
+- byg:stripped_ether_wood
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- byg:aspen_door
+- byg:baobab_door
+- byg:blue_enchanted_door
+- byg:cherry_door
+- byg:cika_door
+- byg:cypress_door
+- byg:ebony_door
+- byg:fir_door
+- byg:green_enchanted_door
+- byg:holly_door
+- byg:jacaranda_door
+- byg:mahogany_door
+- byg:mangrove_door
+- byg:maple_door
+- byg:pine_door
+- byg:rainbow_eucalyptus_door
+- byg:redwood_door
+- byg:skyris_door
+- byg:willow_door
+- byg:witch_hazel_door
+- byg:zelkova_door
+- byg:sythian_door
+- byg:embur_door
+- byg:palm_door
+- byg:lament_door
+- byg:ether_door
+- byg:bulbis_door
+- byg:nightshade_door
+- cinderscapes:scorched_door
+- cinderscapes:umbral_door
+- blockus:bamboo_door
+- blockus:charred_door
+- blockus:white_oak_door
+- desolation:charred_door
+- biomemakeover:blighted_balsa_door
+- biomemakeover:willow_door
+- biomemakeover:swamp_cypress_door
+- betterend:pythadendron_door
+- betterend:mossy_glowshroom_door
+- betterend:lacugrove_door
+- betterend:helix_tree_door
+- betterend:tenanea_door
+- betterend:jellyshroom_door
+- betterend:dragon_tree_door
+- betterend:end_lotus_door
+- betterend:umbrella_tree_door
+
+#blockus:recrafting_nether_bricks
+- blockus:nether_pillar
+- blockus:smooth_nether_bricks
+- blockus:zigzagged_nether_bricks
+
+#byg:rainbow_eucalyptus_logs
+- byg:rainbow_eucalyptus_log
+- byg:stripped_rainbow_eucalyptus_log
+- byg:rainbow_eucalyptus_wood
+- byg:stripped_rainbow_eucalyptus_wood
+
+#c:wooden_barrels
+- minecraft:barrel
+- #blockus:barrels?
+
+#origins:meat
+- minecraft:rotten_flesh
+- minecraft:cod
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:salmon
+- minecraft:beef
+- minecraft:porkchop
+- minecraft:mutton
+- minecraft:chicken
+- minecraft:rabbit
+- minecraft:cooked_chicken
+- minecraft:cooked_rabbit
+- minecraft:rabbit_stew
+- minecraft:cooked_porkchop
+- minecraft:cooked_cod
+- minecraft:cooked_beef
+- minecraft:cooked_mutton
+- minecraft:cooked_salmon
+- minecraft:spider_eye
+
+#c:sulfur_ores
+- cinderscapes:sulfur_ore
+
+#blockus:soul_soils
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#byg:lime_dye
+- byg:green_tulip
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- blockus:crimson_small_stems
+
+#fabric:helmets
+- byg:ametrine_helmet
+
+#betterend:jellyshroom_logs
+- betterend:jellyshroom_log
+- betterend:jellyshroom_bark
+- betterend:jellyshroom_stripped_bark
+- betterend:jellyshroom_stripped_log
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+- byg:red_rock
+- byg:dacite_cobblestone
+- byg:scoria_cobblestone
+- byg:soapstone
+- byg:ether_stone
+- betterend:flavolite
+- betterend:violecite
+- betterend:sulphuric_rock
+
+#byg:blue_enchanted_logs
+- byg:blue_enchanted_log
+- byg:stripped_blue_enchanted_log
+- byg:blue_enchanted_wood
+- byg:stripped_blue_enchanted_wood
+
+#blockus:recrafting_soul_sandstone
+- blockus:smooth_soul_sandstone
+- blockus:cut_soul_sandstone
+- blockus:chiseled_soul_sandstone
+- blockus:soul_sandstone_bricks
+- blockus:small_soul_sandstone_bricks
+
+#biomemakeover:swamp
+- biomemakeover:willowing_branches
+- biomemakeover:willow_sapling
+- biomemakeover:peat
+- biomemakeover:peat_farmland
+- biomemakeover:cattail
+- biomemakeover:reed
+- biomemakeover:small_lily_pad
+- biomemakeover:willow_leaves
+- biomemakeover:willow_log
+- biomemakeover:willow_planks
+- biomemakeover:stripped_willow_log
+- biomemakeover:stripped_willow_wood
+- biomemakeover:willow_stairs
+- biomemakeover:willow_fence
+- biomemakeover:willow_fence_gate
+- biomemakeover:willow_button
+- biomemakeover:willow_trapdoor
+- biomemakeover:willow_sapling
+- biomemakeover:willow_leaves
+- biomemakeover:willow_door
+- biomemakeover:willow_pressure_plate
+- biomemakeover:willow_slab
+- biomemakeover:willow_boat
+- biomemakeover:willow_sign
+- biomemakeover:willow_wood
+- biomemakeover:stripped_willow_wood
+- biomemakeover:swamp_cypress_leaves
+- biomemakeover:swamp_cypress_log
+- biomemakeover:swamp_cypress_planks
+- biomemakeover:stripped_swamp_cypress_log
+- biomemakeover:stripped_swamp_cypress_wood
+- biomemakeover:swamp_cypress_stairs
+- biomemakeover:swamp_cypress_fence
+- biomemakeover:swamp_cypress_fence_gate
+- biomemakeover:swamp_cypress_button
+- biomemakeover:swamp_cypress_trapdoor
+- biomemakeover:swamp_cypress_sapling
+- biomemakeover:swamp_cypress_leaves
+- biomemakeover:swamp_cypress_door
+- biomemakeover:swamp_cypress_pressure_plate
+- biomemakeover:swamp_cypress_slab
+- biomemakeover:swamp_cypress_boat
+- biomemakeover:swamp_cypress_sign
+- biomemakeover:swamp_cypress_wood
+- biomemakeover:stripped_swamp_cypress_wood
+- biomemakeover:toad_spawn_egg
+- biomemakeover:dragonfly_spawn_egg
+- biomemakeover:lightning_bug_spawn_egg
+- biomemakeover:decayed_spawn_egg
+- biomemakeover:dried_peat_bricks
+- biomemakeover:dried_peat
+- biomemakeover:mossy_peat
+- biomemakeover:dried_peat_bricks_stairs
+- biomemakeover:dried_peat_bricks_slab
+- biomemakeover:dried_peat_bricks_wall
+- biomemakeover:witch_hat
+- biomemakeover:lightning_bug_bottle
+- biomemakeover:giant_slime_spawn_egg
+- biomemakeover:tadpole_spawn_egg
+- biomemakeover:tadpole_bucket
+- biomemakeover:swamp_jives_music_disk
+- biomemakeover:bat_wing
+- biomemakeover:dragonfly_wings
+- biomemakeover:magenta_petals
+- biomemakeover:raw_toad
+- biomemakeover:cooked_toad
+- biomemakeover:water_lily
+- biomemakeover:swamp_azalea
+- biomemakeover:marigold
+- biomemakeover:wart
+- biomemakeover:lightning_bottle
+- biomemakeover:soul_embers
+- biomemakeover:mossy_dried_peat_bricks
+- biomemakeover:mossy_dried_peat_brick_stairs
+- biomemakeover:mossy_dried_peat_brick_slab
+- biomemakeover:mossy_dried_peat_brick_wall
+- biomemakeover:cracked_dried_peat_bricks
+- biomemakeover:cracked_dried_peat_brick_stairs
+- biomemakeover:cracked_dried_peat_brick_slab
+- biomemakeover:cracked_dried_peat_brick_wall
+
+#byg:palm_logs
+- byg:palm_log
+- byg:stripped_palm_log
+- byg:palm_wood
+- byg:stripped_palm_wood
+
+#byg:embur_pedus
+- byg:embur_pedu
+- byg:stripped_embur_pedu
+- byg:embur_hyphae
+- byg:stripped_embur_hyphae
+
+#blockus:white_oak_logs
+- blockus:white_oak_log
+- blockus:white_oak_wood
+- blockus:stripped_white_oak_log
+- blockus:stripped_white_oak_wood
+- blockus:white_oak_small_logs
+
+#byg:black_sand
+- byg:purple_sand
+
+#c:chest
+- betterend:pythadendron_chest
+- betterend:lacugrove_chest
+- betterend:umbrella_tree_chest
+- betterend:mossy_glowshroom_chest
+- betterend:dragon_tree_chest
+- betterend:helix_tree_chest
+- betterend:tenanea_chest
+- betterend:end_lotus_chest
+- betterend:jellyshroom_chest
+
+#curios:ring
+- curios:ring
+- mmorpg:uniques/jewelry/greed_persist
+- mmorpg:uniques/jewelry/loop_of_infinity
+- mmorpg:uniques/jewelry/lunar_ring
+- mmorpg:uniques/jewelry/solar_ring
+- mmorpg:uniques/jewelry/touch_of_eternity
+- mmorpg:jewelry/ring/mana_reg_ring_low
+- mmorpg:jewelry/ring/mana_reg_ring_end
+- mmorpg:jewelry/ring/fire_res_ring_low
+- mmorpg:jewelry/ring/fire_res_ring_end
+- mmorpg:jewelry/ring/cold_res_ring_low
+- mmorpg:jewelry/ring/cold_res_ring_end
+- mmorpg:jewelry/ring/thunder_res_ring_low
+- mmorpg:jewelry/ring/thunder_res_ring_end
+- mmorpg:jewelry/ring/poison_res_ring_low
+- mmorpg:jewelry/ring/poison_res_ring_end
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+- blockus:birch_small_logs
+
+#byg:light_blue_dye
+- byg:winter_scilla
+- byg:thereal_bellflower
+
+#byg:aspen_logs
+- byg:aspen_log
+- byg:stripped_aspen_log
+- byg:aspen_wood
+- byg:stripped_aspen_wood
+
+#c:sandstone
+- byg:black_sandstone
+- byg:black_chiseled_sandstone
+- byg:black_cut_sandstone
+- byg:blue_sandstone
+- byg:blue_chiseled_sandstone
+- byg:blue_cut_sandstone
+- byg:white_sandstone
+- byg:white_chiseled_sandstone
+- byg:white_cut_sandstone
+- byg:purple_sandstone
+- byg:purple_chiseled_sandstone
+- byg:purple_cut_sandstone
+- byg:pink_sandstone
+- byg:pink_chiseled_sandstone
+- byg:pink_cut_sandstone
+
+#c:blue_sand
+- byg:blue_sand
+
+#c:mushrooms
+- byg:green_mushroom
+- byg:wood_blewit
+- byg:weeping_milkcap
+- byg:black_puff
+- byg:sythian_fungus
+
+#biomemakeover:badlands
+- biomemakeover:saguaro_cactus
+- biomemakeover:barrel_cactus
+- biomemakeover:barrel_cactus_flowered
+- biomemakeover:paydirt
+- biomemakeover:cowboy_hat
+- biomemakeover:pink_petals
+- biomemakeover:scuttler_tail
+- biomemakeover:ghost_spawn_egg
+- biomemakeover:scuttler_spawn_egg
+- biomemakeover:cowboy_spawn_egg
+- biomemakeover:poltergeist
+- biomemakeover:ectoplasm
+- biomemakeover:ghost_town_music_disk
+- biomemakeover:terracotta_bricks
+- biomemakeover:black_terracotta_bricks
+- biomemakeover:red_terracotta_bricks
+- biomemakeover:green_terracotta_bricks
+- biomemakeover:brown_terracotta_bricks
+- biomemakeover:blue_terracotta_bricks
+- biomemakeover:purple_terracotta_bricks
+- biomemakeover:cyan_terracotta_bricks
+- biomemakeover:light_gray_terracotta_bricks
+- biomemakeover:gray_terracotta_bricks
+- biomemakeover:pink_terracotta_bricks
+- biomemakeover:lime_terracotta_bricks
+- biomemakeover:yellow_terracotta_bricks
+- biomemakeover:light_blue_terracotta_bricks
+- biomemakeover:magenta_terracotta_bricks
+- biomemakeover:orange_terracotta_bricks
+- biomemakeover:white_terracotta_bricks
+- biomemakeover:terracotta_brick_slab
+- biomemakeover:black_terracotta_brick_slab
+- biomemakeover:red_terracotta_brick_slab
+- biomemakeover:green_terracotta_brick_slab
+- biomemakeover:brown_terracotta_brick_slab
+- biomemakeover:blue_terracotta_brick_slab
+- biomemakeover:purple_terracotta_brick_slab
+- biomemakeover:cyan_terracotta_brick_slab
+- biomemakeover:light_gray_terracotta_brick_slab
+- biomemakeover:gray_terracotta_brick_slab
+- biomemakeover:pink_terracotta_brick_slab
+- biomemakeover:lime_terracotta_brick_slab
+- biomemakeover:yellow_terracotta_brick_slab
+- biomemakeover:light_blue_terracotta_brick_slab
+- biomemakeover:magenta_terracotta_brick_slab
+- biomemakeover:orange_terracotta_brick_slab
+- biomemakeover:white_terracotta_brick_slab
+- biomemakeover:terracotta_brick_wall
+- biomemakeover:black_terracotta_brick_wall
+- biomemakeover:red_terracotta_brick_wall
+- biomemakeover:green_terracotta_brick_wall
+- biomemakeover:brown_terracotta_brick_wall
+- biomemakeover:blue_terracotta_brick_wall
+- biomemakeover:purple_terracotta_brick_wall
+- biomemakeover:cyan_terracotta_brick_wall
+- biomemakeover:light_gray_terracotta_brick_wall
+- biomemakeover:gray_terracotta_brick_wall
+- biomemakeover:pink_terracotta_brick_wall
+- biomemakeover:lime_terracotta_brick_wall
+- biomemakeover:yellow_terracotta_brick_wall
+- biomemakeover:light_blue_terracotta_brick_wall
+- biomemakeover:magenta_terracotta_brick_wall
+- biomemakeover:orange_terracotta_brick_wall
+- biomemakeover:white_terracotta_brick_wall
+- biomemakeover:terracotta_brick_stairs
+- biomemakeover:black_terracotta_brick_stairs
+- biomemakeover:red_terracotta_brick_stairs
+- biomemakeover:green_terracotta_brick_stairs
+- biomemakeover:brown_terracotta_brick_stairs
+- biomemakeover:blue_terracotta_brick_stairs
+- biomemakeover:purple_terracotta_brick_stairs
+- biomemakeover:cyan_terracotta_brick_stairs
+- biomemakeover:light_gray_terracotta_brick_stairs
+- biomemakeover:gray_terracotta_brick_stairs
+- biomemakeover:pink_terracotta_brick_stairs
+- biomemakeover:lime_terracotta_brick_stairs
+- biomemakeover:yellow_terracotta_brick_stairs
+- biomemakeover:light_blue_terracotta_brick_stairs
+- biomemakeover:magenta_terracotta_brick_stairs
+- biomemakeover:orange_terracotta_brick_stairs
+- biomemakeover:white_terracotta_brick_stairs
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+- byg:withering_oak_log
+- byg:withering_oak_wood
+- blockus:oak_small_logs
+
+#minecraft:charred_logs
+- desolation:charred_log
+- desolation:charred_log
+
+#byg:purple_sand
+- byg:purple_sand
+
+#fabric:chestplates
+- byg:ametrine_chestplate
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+- byg:red_rock
+- byg:dacite_cobblestone
+- byg:scoria_cobblestone
+- byg:soapstone
+- byg:ether_stone
+- betterend:flavolite
+- betterend:violecite
+- betterend:sulphuric_rock
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_campfire
+- blockus:soul_lantern_block
+- blockus:soul_o_lantern
+
+#c:bookshelves
+- byg:aspen_bookshelf
+- byg:baobab_bookshelf
+- byg:blue_enchanted_bookshelf
+- byg:cherry_bookshelf
+- byg:cika_bookshelf
+- byg:cypress_bookshelf
+- byg:ebony_bookshelf
+- byg:fir_bookshelf
+- byg:green_enchanted_bookshelf
+- byg:holly_bookshelf
+- byg:jacaranda_bookshelf
+- byg:mahogany_bookshelf
+- byg:mangrove_bookshelf
+- byg:maple_bookshelf
+- byg:pine_bookshelf
+- byg:rainbow_eucalyptus_bookshelf
+- byg:redwood_bookshelf
+- byg:skyris_bookshelf
+- byg:willow_bookshelf
+- byg:witch_hazel_bookshelf
+- byg:zelkova_bookshelf
+- byg:sythian_bookshelf
+- byg:embur_bookshelf
+- byg:palm_bookshelf
+- byg:lament_bookshelf
+- byg:bulbis_bookshelf
+- byg:ether_bookshelf
+- byg:nightshade_bookshelf
+
+#blockus:barrels
+- blockus:oak_barrel
+- minecraft:barrel
+- blockus:birch_barrel
+- blockus:jungle_barrel
+- blockus:acacia_barrel
+- blockus:dark_oak_barrel
+- blockus:crimson_barrel
+- blockus:warped_barrel
+- blockus:bamboo_barrel
+- blockus:charred_barrel
+- blockus:white_oak_barrel
+
+#byg:cherry_logs
+- byg:cherry_log
+- byg:stripped_cherry_log
+- byg:cherry_wood
+- byg:stripped_cherry_wood
+
+#minecraft:pressure_plates
+- biomemakeover:blighted_balsa_pressure_plate
+- biomemakeover:willow_pressure_plate
+- biomemakeover:swamp_cypress_pressure_plate
+- biomemakeover:blighted_balsa_pressure_plate
+- biomemakeover:willow_pressure_plate
+- biomemakeover:swamp_cypress_pressure_plate
+
+#automated_crafting:stripped_logs
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+- minecraft:stripped_crimson_stem
+- minecraft:stripped_crimson_hyphae
+- minecraft:stripped_warped_stem
+- minecraft:stripped_warped_hyphae
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+- blockus:jungle_small_logs
+
+#minecraft:lectern_books
+- minecraft:written_book
+- minecraft:writable_book
+
+#byg:jacaranda_logs
+- byg:jacaranda_log
+- byg:stripped_jacaranda_log
+- byg:jacaranda_wood
+- byg:stripped_jacaranda_wood
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- byg:aspen_stairs
+- byg:baobab_stairs
+- byg:blue_enchanted_stairs
+- byg:cherry_stairs
+- byg:cika_stairs
+- byg:cypress_stairs
+- byg:ebony_stairs
+- byg:fir_stairs
+- byg:green_enchanted_stairs
+- byg:holly_stairs
+- byg:jacaranda_stairs
+- byg:mahogany_stairs
+- byg:mangrove_stairs
+- byg:maple_stairs
+- byg:pine_stairs
+- byg:rainbow_eucalyptus_stairs
+- byg:redwood_stairs
+- byg:skyris_stairs
+- byg:willow_stairs
+- byg:witch_hazel_stairs
+- byg:zelkova_stairs
+- byg:sythian_stairs
+- byg:embur_stairs
+- byg:palm_stairs
+- byg:lament_stairs
+- byg:ether_stairs
+- byg:bulbis_stairs
+- byg:nightshade_stairs
+- cinderscapes:scorched_stairs
+- cinderscapes:umbral_stairs
+- blockus:bamboo_stairs
+- blockus:charred_stairs
+- blockus:white_oak_stairs
+- desolation:charred_stairs
+- biomemakeover:blighted_balsa_stairs
+- biomemakeover:willow_stairs
+- biomemakeover:swamp_cypress_stairs
+- betterend:helix_tree_stairs
+- betterend:jellyshroom_stairs
+- betterend:umbrella_tree_stairs
+- betterend:lacugrove_stairs
+- betterend:dragon_tree_stairs
+- betterend:pythadendron_stairs
+- betterend:tenanea_stairs
+- betterend:mossy_glowshroom_stairs
+- betterend:end_lotus_stairs
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+- blockus:spruce_small_logs
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+- byg:aspen_button
+- byg:baobab_button
+- byg:blue_enchanted_button
+- byg:cherry_button
+- byg:cika_button
+- byg:cypress_button
+- byg:ebony_button
+- byg:fir_button
+- byg:green_enchanted_button
+- byg:holly_button
+- byg:jacaranda_button
+- byg:mahogany_button
+- byg:mangrove_button
+- byg:maple_button
+- byg:pine_button
+- byg:rainbow_eucalyptus_button
+- byg:redwood_button
+- byg:skyris_button
+- byg:willow_button
+- byg:witch_hazel_button
+- byg:zelkova_button
+- byg:sythian_button
+- byg:embur_button
+- byg:palm_button
+- byg:lament_button
+- byg:ether_button
+- byg:bulbis_button
+- byg:nightshade_button
+- cinderscapes:scorched_button
+- cinderscapes:umbral_button
+- blockus:bamboo_button
+- blockus:charred_button
+- blockus:white_oak_button
+- desolation:charred_button
+- biomemakeover:blighted_balsa_button
+- biomemakeover:willow_button
+- biomemakeover:swamp_cypress_button
+- betterend:lacugrove_button
+- betterend:helix_tree_button
+- betterend:pythadendron_button
+- betterend:mossy_glowshroom_button
+- betterend:tenanea_button
+- betterend:end_lotus_button
+- betterend:dragon_tree_button
+- betterend:umbrella_tree_button
+- betterend:jellyshroom_button
+
+#c:sulfurs
+- cinderscapes:sulfur
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+- byg:soapstone_bricks
+- byg:scoria_stonebricks
+- byg:red_rock_bricks
+- byg:ether_stone
+- betterend:flavolite_bricks
+- betterend:sulphuric_rock_bricks
+- betterend:violecite_bricks
+
+#harvest:seeds
+- minecraft:wheat_seeds
+- minecraft:nether_wart
+- minecraft:carrot
+- minecraft:potato
+- minecraft:beetroot_seeds
+
+#c:furnaces
+- betterend:flavolite_furnace
+- minecraft:furnace
+- betterend:violecite_furnace
+- betterend:sulphuric_rock_furnace
+
+#betterend:umbrella_tree_logs
+- betterend:umbrella_tree_stripped_bark
+- betterend:umbrella_tree_stripped_log
+- betterend:umbrella_tree_bark
+- betterend:umbrella_tree_log
+
+#byg:cypress_logs
+- byg:cypress_log
+- byg:stripped_cypress_log
+- byg:cypress_wood
+- byg:stripped_cypress_wood
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- byg:aspen_slab
+- byg:baobab_slab
+- byg:blue_enchanted_slab
+- byg:cherry_slab
+- byg:cika_slab
+- byg:cypress_slab
+- byg:ebony_slab
+- byg:fir_slab
+- byg:green_enchanted_slab
+- byg:holly_slab
+- byg:jacaranda_slab
+- byg:mahogany_slab
+- byg:mangrove_slab
+- byg:maple_slab
+- byg:pine_slab
+- byg:rainbow_eucalyptus_slab
+- byg:redwood_slab
+- byg:skyris_slab
+- byg:willow_slab
+- byg:witch_hazel_slab
+- byg:zelkova_slab
+- byg:dacite_cobblestone_slab
+- byg:mossy_stone_slab
+- byg:rocky_stone_slab
+- byg:scoria_stone_slab
+- byg:scoria_cobblestone_slab
+- byg:scoria_stonebrick_slab
+- byg:soapstone_slab
+- byg:polished_soapstone_slab
+- byg:soapstone_brick_slab
+- byg:soapstone_tile_slab
+- byg:red_rock_slab
+- byg:red_rock_brick_slab
+- byg:mossy_red_rock_brick_slab
+- byg:cracked_red_rock_brick_slab
+- byg:chiseled_red_rock_brick_slab
+- byg:sythian_slab
+- byg:embur_slab
+- byg:palm_slab
+- byg:lament_slab
+- byg:ether_slab
+- byg:bulbis_slab
+- byg:nightshade_slab
+- byg:ether_stone_slab
+- byg:purpur_stone_slab
+- cinderscapes:sulfur_quartz_slab
+- cinderscapes:smooth_sulfur_quartz_slab
+- cinderscapes:rose_quartz_slab
+- cinderscapes:smooth_rose_quartz_slab
+- cinderscapes:smoky_quartz_slab
+- cinderscapes:smooth_smoky_quartz_slab
+- biomemakeover:red_mushroom_brick_slab
+- biomemakeover:brown_mushroom_brick_slab
+- biomemakeover:glowshroom_stem_brick_slab
+- biomemakeover:mushroom_stem_brick_slab
+- biomemakeover:purple_glowshroom_brick_slab
+- biomemakeover:green_glowshroom_brick_slab
+- biomemakeover:orange_glowshroom_brick_slab
+- biomemakeover:blighted_cobblestone_slab
+- biomemakeover:blighted_stone_bricks_slab
+- biomemakeover:terracotta_brick_slab
+- biomemakeover:black_terracotta_brick_slab
+- biomemakeover:red_terracotta_brick_slab
+- biomemakeover:green_terracotta_brick_slab
+- biomemakeover:brown_terracotta_brick_slab
+- biomemakeover:blue_terracotta_brick_slab
+- biomemakeover:purple_terracotta_brick_slab
+- biomemakeover:cyan_terracotta_brick_slab
+- biomemakeover:light_gray_terracotta_brick_slab
+- biomemakeover:gray_terracotta_brick_slab
+- biomemakeover:pink_terracotta_brick_slab
+- biomemakeover:lime_terracotta_brick_slab
+- biomemakeover:yellow_terracotta_brick_slab
+- biomemakeover:light_blue_terracotta_brick_slab
+- biomemakeover:magenta_terracotta_brick_slab
+- biomemakeover:orange_terracotta_brick_slab
+- biomemakeover:white_terracotta_brick_slab
+- biomemakeover:dried_peat_bricks_slab
+- betterend:jellyshroom_slab
+- betterend:tenanea_slab
+- betterend:helix_tree_slab
+- betterend:pythadendron_slab
+- betterend:violecite_bricks_slab
+- betterend:mossy_glowshroom_slab
+- betterend:umbrella_tree_slab
+- betterend:violecite_slab
+- betterend:dragon_tree_slab
+- betterend:lacugrove_slab
+- betterend:end_lotus_slab
+- betterend:sulphuric_rock_slab
+- betterend:flavolite_bricks_slab
+- betterend:flavolite_slab
+- betterend:sulphuric_rock_bricks_slab
+
+#blockus:recrafting_obsidian
+- blockus:obsidian_bricks
+- blockus:obsidian_pillar
+- blockus:obsidian_circle_pavement
+
+#c:white_sand
+- byg:white_sand
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+- biomemakeover:swamp_azalea
+- biomemakeover:marigold
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+- byg:aspen_button
+- byg:baobab_button
+- byg:blue_enchanted_button
+- byg:cherry_button
+- byg:cika_button
+- byg:cypress_button
+- byg:ebony_button
+- byg:fir_button
+- byg:green_enchanted_button
+- byg:holly_button
+- byg:jacaranda_button
+- byg:mahogany_button
+- byg:mangrove_button
+- byg:maple_button
+- byg:pine_button
+- byg:rainbow_eucalyptus_button
+- byg:redwood_button
+- byg:skyris_button
+- byg:willow_button
+- byg:witch_hazel_button
+- byg:zelkova_button
+- byg:sythian_button
+- byg:embur_button
+- byg:palm_button
+- byg:lament_button
+- byg:ether_button
+- byg:bulbis_button
+- byg:nightshade_button
+- blockus:polished_andesite_button
+- blockus:polished_diorite_button
+- blockus:polished_granite_button
+- blockus:limestone_button
+- blockus:marble_button
+- blockus:bluestone_button
+- blockus:polished_netherrack_button
+- blockus:polished_end_stone_button
+- betterend:lacugrove_button
+- betterend:helix_tree_button
+- betterend:pythadendron_button
+- betterend:mossy_glowshroom_button
+- betterend:tenanea_button
+- betterend:end_lotus_button
+- betterend:dragon_tree_button
+- betterend:umbrella_tree_button
+- betterend:jellyshroom_button
+
+#fabric:boots
+- byg:ametrine_boots
+
+#fabric:swords
+- byg:pendorite_sword
+- byg:pendorite_battleaxe
+- minecraft:wooden_sword
+- minecraft:stone_sword
+- minecraft:iron_sword
+- minecraft:golden_sword
+- minecraft:diamond_sword
+- minecraft:netherite_sword
+- betterend:thallasium_sword
+- betterend:aeternium_sword
+- betterend:terminite_sword
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- betternether:stalagnate_planks
+- betternether:willow_planks
+- betternether:wart_planks
+- betternether:mushroom_planks
+- betternether:mushroom_fir_planks
+- betternether:rubeus_planks
+- betternether:anchor_tree_planks
+- byg:aspen_planks
+- byg:baobab_planks
+- byg:blue_enchanted_planks
+- byg:cherry_planks
+- byg:cika_planks
+- byg:cypress_planks
+- byg:ebony_planks
+- byg:fir_planks
+- byg:green_enchanted_planks
+- byg:holly_planks
+- byg:jacaranda_planks
+- byg:mahogany_planks
+- byg:mangrove_planks
+- byg:maple_planks
+- byg:pine_planks
+- byg:rainbow_eucalyptus_planks
+- byg:redwood_planks
+- byg:skyris_planks
+- byg:willow_planks
+- byg:witch_hazel_planks
+- byg:zelkova_planks
+- byg:sythian_planks
+- byg:embur_planks
+- byg:palm_planks
+- byg:lament_planks
+- byg:ether_planks
+- byg:bulbis_planks
+- byg:nightshade_planks
+- cinderscapes:umbral_planks
+- cinderscapes:scorched_planks
+- blockus:bamboo_planks
+- blockus:charred_planks
+- blockus:white_oak_planks
+- desolation:charred_planks
+- biomemakeover:blighted_balsa_planks
+- biomemakeover:willow_planks
+- biomemakeover:swamp_cypress_planks
+- betterend:jellyshroom_planks
+- betterend:mossy_glowshroom_planks
+- betterend:helix_tree_planks
+- betterend:end_lotus_planks
+- betterend:dragon_tree_planks
+- betterend:tenanea_planks
+- betterend:pythadendron_planks
+- betterend:lacugrove_planks
+- betterend:umbrella_tree_planks
+
+#byg:cika_logs
+- byg:cika_log
+- byg:stripped_cika_log
+- byg:cika_wood
+- byg:stripped_cika_wood
+
+#byg:magenta_dye
+- byg:magenta_amaranth
+- byg:magenta_tulip
+- byg:lazarus_bellflower
+- byg:protea_flower
+- byg:fairy_slipper
+
+#byg:green_enchanted_logs
+- byg:green_enchanted_log
+- byg:stripped_green_enchanted_log
+- byg:green_enchanted_wood
+- byg:stripped_green_enchanted_wood
+
+#origins:ranged_weapons
+- minecraft:bow
+- minecraft:crossbow
+- minecraft:trident
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+
+#byg:pink_dye
+- byg:osiria_rose
+- byg:japanese_orchid
+- byg:silver_vase_flower
+- byg:daffodil
+- byg:bistort
+- byg:firecracker_flower_bush
+- byg:peach_leather_flower
+- byg:pink_allium
+- byg:pink_allium_flower_bush
+- byg:pink_anemone
+- byg:pink_daffodil
+- byg:pink_orchid
+- byg:tall_pink_allium
+
+#byg:ebony_logs
+- byg:ebony_log
+- byg:stripped_ebony_log
+- byg:ebony_wood
+- byg:stripped_ebony_wood
+
+#c:soul_ground
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#c:netherrack
+- byg:overgrown_netherrack
+- byg:overgrown_crimson_blackstone
+- byg:blue_netherrack
+- byg:brimstone
+- byg:embur_nylium
+- byg:sythian_nylium
+
+#c:glass_blocks
+- minecraft:glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#blockus:recrafting_bluestone_tiles
+- blockus:smooth_bluestone
+- blockus:bluestone_bricks
+- blockus:bluestone_pillar
+- blockus:bluestone_little_bricks
+- blockus:bluestone_squares
+- blockus:chiseled_bluestone
+- blockus:bluestone_lines
+
+#byg:bulbis_stems
+- byg:bulbis_stem
+- byg:stripped_bulbis_stem
+- byg:bulbis_wood
+- byg:stripped_bulbis_wood
+
+#blockus:recrafting_limestone_bricks
+- blockus:limestone_pillar
+- blockus:chiseled_limestone
+- blockus:limestone_circle_pavement
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- byg:aspen_pressure_plate
+- byg:baobab_pressure_plate
+- byg:blue_enchanted_pressure_plate
+- byg:cherry_pressure_plate
+- byg:cika_pressure_plate
+- byg:cypress_pressure_plate
+- byg:ebony_pressure_plate
+- byg:fir_pressure_plate
+- byg:green_enchanted_pressure_plate
+- byg:holly_pressure_plate
+- byg:jacaranda_pressure_plate
+- byg:mahogany_pressure_plate
+- byg:mangrove_pressure_plate
+- byg:maple_pressure_plate
+- byg:pine_pressure_plate
+- byg:rainbow_eucalyptus_pressure_plate
+- byg:redwood_pressure_plate
+- byg:skyris_pressure_plate
+- byg:willow_pressure_plate
+- byg:witch_hazel_pressure_plate
+- byg:zelkova_pressure_plate
+- byg:sythian_pressure_plate
+- byg:embur_pressure_plate
+- byg:palm_pressure_plate
+- byg:lament_pressure_plate
+- byg:ether_pressure_plate
+- byg:bulbis_pressure_plate
+- byg:nightshade_pressure_plate
+- cinderscapes:scorched_pressure_plate
+- cinderscapes:umbral_pressure_plate
+- blockus:bamboo_pressure_plate
+- blockus:charred_pressure_plate
+- blockus:white_oak_pressure_plate
+- desolation:charred_pressure_plate
+- biomemakeover:blighted_balsa_pressure_plate
+- biomemakeover:willow_pressure_plate
+- biomemakeover:swamp_cypress_pressure_plate
+- betterend:end_lotus_plate
+- betterend:mossy_glowshroom_plate
+- betterend:lacugrove_plate
+- betterend:pythadendron_plate
+- betterend:helix_tree_plate
+- betterend:dragon_tree_plate
+- betterend:umbrella_tree_plate
+- betterend:jellyshroom_plate
+- betterend:tenanea_plate
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+- byg:foxglove
+- byg:delphinium
+- byg:japanese_orchid
+- byg:azalea
+- byg:tall_allium
+- byg:tall_pink_allium
+- biomemakeover:swamp_azalea
+- biomemakeover:marigold
+
+#byg:sythian_stems
+- byg:sythian_stem
+- byg:stripped_sythian_stem
+- byg:sythian_hyphae
+- byg:stripped_sythian_hyphae
+
+#c:cobblestone
+- byg:red_rock
+- byg:dacite_cobblestone
+- byg:scoria_cobblestone
+- byg:soapstone
+- byg:ether_stone
+
+#c:quartz
+- minecraft:quartz
+- cinderscapes:smoky_quartz
+- cinderscapes:rose_quartz
+- cinderscapes:sulfur_quartz
+
+#c:pink_sand
+- byg:pink_sand
+
+#curios:ender_heart
+- heartbond:ender_heart
+
+#curios:back
+- minecraft:shulker_box
+- minecraft:white_shulker_box
+- minecraft:orange_shulker_box
+- minecraft:magenta_shulker_box
+- minecraft:light_blue_shulker_box
+- minecraft:yellow_shulker_box
+- minecraft:lime_shulker_box
+- minecraft:pink_shulker_box
+- minecraft:gray_shulker_box
+- minecraft:light_gray_shulker_box
+- minecraft:cyan_shulker_box
+- minecraft:purple_shulker_box
+- minecraft:blue_shulker_box
+- minecraft:brown_shulker_box
+- minecraft:green_shulker_box
+- minecraft:red_shulker_box
+- minecraft:black_shulker_box
+- enderitemod:enderite_shulker_box?
+- netherite_plus:netherite_shulker_box?
+- netherite_plus:netherite_white_shulker_box?
+- netherite_plus:netherite_orange_shulker_box?
+- netherite_plus:netherite_magenta_shulker_box?
+- netherite_plus:netherite_light_blue_shulker_box?
+- netherite_plus:netherite_yellow_shulker_box?
+- netherite_plus:netherite_lime_shulker_box?
+- netherite_plus:netherite_pink_shulker_box?
+- netherite_plus:netherite_gray_shulker_box?
+- netherite_plus:netherite_light_gray_shulker_box?
+- netherite_plus:netherite_cyan_shulker_box?
+- netherite_plus:netherite_purple_shulker_box?
+- netherite_plus:netherite_blue_shulker_box?
+- netherite_plus:netherite_brown_shulker_box?
+- netherite_plus:netherite_green_shulker_box?
+- netherite_plus:netherite_red_shulker_box?
+- netherite_plus:netherite_black_shulker_box?
+- minecraft:elytra
+- enderitemod:enderite_elytra_seperated?
+- netherite_plus:netherite_elytra?
+
+#adventurez:piglin_not_attack_items
+- adventurez:stone_golem_helmet
+- adventurez:stone_golem_chestplate
+- adventurez:stone_golem_leggings
+- adventurez:stone_golem_boots
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+
+#blockus:recrafting_red_nether_bricks
+- blockus:red_nether_pillar
+- blockus:smooth_red_nether_bricks
+- blockus:zigzagged_red_nether_bricks
+
+#byg:holly_logs
+- byg:holly_log
+- byg:stripped_holly_log
+- byg:holly_wood
+- byg:stripped_holly_wood
+
+#byg:white_dye
+- byg:white_anemone
+- byg:white_sage
+- byg:winter_rose
+- byg:snowdrops
+- byg:angelica
+
+#blockus:recrafting_charred_nether_bricks
+- blockus:charred_nether_pillar
+- blockus:smooth_charred_nether_bricks
+- blockus:zigzagged_charred_nether_bricks

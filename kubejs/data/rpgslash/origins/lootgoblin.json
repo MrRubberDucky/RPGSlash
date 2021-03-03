@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"origins:shulker_inventory",
+		"rpgslash:lootgoblin_speed_boost",
+		"rpgslash:lootgoblin_inject_redbull",
+		"origins:climbing",
+        "rpgslash:lootgoblin_no_sleep",
+		"rpgslash:lootgoblin_no_shield",
+		"origins:fragile",
+		"origins:carnivore"
+	],
+	"icon": "mobz:islandknightspecial2head",
+	"name": "Loot Goblin",
+	"description": "Forever in the search of shiny. Wait, I think I just saw one."
+}

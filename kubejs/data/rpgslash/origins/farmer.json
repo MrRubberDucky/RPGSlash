@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"origins-classes:more_planks_from_logs",
+		"origins-classes:more_crop_drops"
+	],
+	"icon": "minecraft:wheat",
+	"order": 0,
+	"impact": 1,
+	"name": "Farmer",
+	"description": "Ain't no good work if it requires no effort!"
+}

@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"origins-classes:more_stone_break_speed",
+		"origins-classes:no_mining_exhaustion"
+	],
+	"icon": "minecraft:netherite_pickaxe",
+	"order": 0,
+	"impact": 1,
+	"name": "Dwarf",
+	"description": "Diggy diggy hole, i'm diggin a hole!"
+}

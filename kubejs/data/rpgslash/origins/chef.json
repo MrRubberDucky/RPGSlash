@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"origins-classes:more_smoker_xp",
+		"origins-classes:more_animal_loot"
+	],
+	"icon": "goldensteak:enchanted_golden_steak",
+	"order": 0,
+	"impact": 1,
+	"name": "Chef",
+	"description": "This pig won't make itself!"
+}

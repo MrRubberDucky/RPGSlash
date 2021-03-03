@@ -1,0 +1,19 @@
+{
+	"type": "origins:prevent_item_use",
+	"item_condition": {
+		"type": "origins:and",
+		"conditions": [{
+				"type": "origins:ingredient",
+				"ingredient": {
+					"tag": "origins:pescatarian"
+				},
+				"inverted": true
+			},
+			{
+				"type": "origins:food"
+			}
+		]
+	},
+	"name": "Pescatarian",
+	"description": "You can only eat seafood. If it swims, you eat~"
+}

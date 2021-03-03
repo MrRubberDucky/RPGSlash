@@ -1,0 +1,35 @@
+    "if_action": {
+
+      "type": "origins:execute_command",
+
+      "command": "/identity equip @p mobz:ender_entity",
+
+      "permission_level": 4,
+	  
+
+    },
+
+    "else_action": {
+
+      "type": "origins:execute_command",
+
+      "command": "/identity unequip @p",
+
+      "permission_level": 4,
+	  
+
+    }
+
+  },
+
+  "cooldown": 20,
+
+  "hud_render": {
+
+    "should_render": false
+
+  },
+
+  "name": "Ender-fusion",
+
+  "description": "You thought I wouldn't, but I will... (transform into Enderman)"

@@ -1,0 +1,21 @@
+{
+  "name": "Celestial Bond",
+  "description": "I hate humaaaans. But I love being a cat... who doesn't? Join us darling~",
+  "type": "origins:action_on_callback",
+  "entity_action_chosen": {
+    "type": "origins:execute_command",
+    "command": "identity equip @s minecraft:cat",
+    "permission_level": 4
+  },
+  "entity_action_respawned": {
+    "type": "origins:execute_command",
+    "command": "identity equip @s minecraft:cat",
+    "permission_level": 4
+	},
+  "entity_action_removed": {
+    "type": "origins:execute_command",
+    "command": "identity unequip @s",
+    "permission_level": 4
+  },
+  "execute_chosen_when_orb": true
+}

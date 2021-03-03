@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"origins-classes:better_enchanting",
+		"origins-classes:longer_potions"
+	],
+	"icon": "betternether:nether_brewing_stand",
+	"order": 0,
+	"impact": 1,
+	"name": "Magician",
+	"description": "It speaks to us. Do you too?"
+}

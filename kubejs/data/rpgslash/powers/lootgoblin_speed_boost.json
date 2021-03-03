@@ -1,0 +1,11 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "Loot Goblin speed bonus",
+    "attribute": "minecraft:generic.movement_speed",
+    "value": 0.02,
+    "operation": "addition"
+  },
+  "name": "Endless Energy Drinks",
+  "description": "You're the fastest goblin alive, probably. Increased run speed."
+  }

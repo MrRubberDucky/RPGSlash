@@ -1,0 +1,20 @@
+  
+{
+  "name": "I sense everything",
+  "description": "Mark up to 10 entities near you",
+  "type": "origins:active_self",
+  "cooldown": 200,
+  "hud_render": {
+    "should_render": true
+  },
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type":"origins:execute_command",
+        "command": "effect give @e[limit=10,sort=nearest,distance=1..25,type=!cow,type=!chicken,type=!sheep,type=!horse,type=!pig,type=!player,type=!bee,type=!bat,type=!donkey] glowing 10",
+        "permission_level": 4
+      }
+    ]
+  }
+}

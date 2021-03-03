@@ -1,0 +1,11 @@
+{
+	"type": "origins:prevent_item_use",
+	"item_condition": {
+		"type": "origins:ingredient",
+		"ingredient": {
+			"tag": "origins:shields"
+		}
+	},
+	"name": "Forgotten Knowledge",
+	"description": "The endless search for treasure made you forget how to use a shield. Whoops."
+}

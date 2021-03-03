@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"origins:launch_into_air",
+		"origins:slow_falling",
+		"rpgslash:enderling_energy",
+		"rpgslash:enderling_throw_enderpearl",
+		"rpgslash:enderling_effect", 
+		"origins:pumpkin_hate",
+		"origins:vegetarian"
+	],
+	"icon": "mobz:enderhead",
+	"order": 1,
+	"impact": 1,
+	"name": "Enderling",
+	"description": "They used to call me Steve, now they call me a walking rifter. Can you guess who I'm before I erase you?"
+}

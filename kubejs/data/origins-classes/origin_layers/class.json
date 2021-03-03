@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "order": 1,
+  "enabled": true,
+  "origins": [
+ 	 "rpgslash:magician",
+	 "rpgslash:chef",
+	 "rpgslash:dwarf",
+	 "rpgslash:neutral"
+  ]			
+}

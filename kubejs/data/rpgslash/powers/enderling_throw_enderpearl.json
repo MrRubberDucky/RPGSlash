@@ -1,0 +1,14 @@
+{
+  "type": "origins:fire_projectile",
+  "cooldown": 300,
+  "hud_render": {
+    "bar_index": 6
+  },
+  "entity_type": "origins:enderian_pearl",
+  "sound": "minecraft:entity.ender_pearl.throw",
+  "speed": 1.5,
+  "divergence": 1,
+  "key": "secondary",
+  "name": "Blink of a Eye",
+  "description": "Being able to make ender pearls out of thin air is no feat a puny human would achieve."
+}

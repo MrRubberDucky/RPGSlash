@@ -1,0 +1,12 @@
+ {
+ 	"name": "Force Cat Form",
+ 	"description": "placeholder",
+ 	"type": "origins:action_over_time",
+ 	"interval": 20,
+ 	"entity_action": {
+ 		"type": "origins:execute_command",
+ 		"command": "identity equip @s minecraft:cat",
+ 		"permission_level": 4
+ 	},
+ 	"hidden": true
+ }

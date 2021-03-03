@@ -1,0 +1,9 @@
+{
+	"powers": [
+	],
+	"icon": "byg:rose",
+	"order": 0,
+	"impact": 1,
+	"name": "Neutral",
+	"description": "No downsides, no upsides."
+}

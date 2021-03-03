@@ -1,0 +1,19 @@
+{
+	"type": "origins:active_self",
+	"entity_action": {
+ 		"type": "origins:execute_command",
+  		"command": "/effect give @p haste 15 0",
+ 		"permission_level": 4,
+		"key": "secondary"
+
+	},
+	
+	"cooldown": 1000,
+	"hud_render": {
+		"should_render": true,
+		"bar_index": 5
+	},
+
+  	"name": "Sugar Rush",
+  	"description": "Release all that bundled up sugar you have in your system and grant yourself Haste for 10 seconds"
+}
