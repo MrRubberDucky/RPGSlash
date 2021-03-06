@@ -1,3 +1,11 @@
+# 6.03.2021
+- New Origin: Rootling (Shapeshifter/Nature)
+- Delete ``unused_shapeshift.json`` from \rpgslash\powers
+- Rename ``feline_cat_team`` to ``feline_identity_lock`` (a small change so I remember what it does)
+- Add colored prefixes to current origins (Loot Goblin - Yellow, Enderling - Light Purple, Feline - Gold, Rootling - Green)
+- Balancing: remove faster mining speed from Dwarf class
+
+
 # 5.03.2021
 - Change the project name to RPGSlash from RPGSlasher
 
