@@ -1,3 +1,7 @@
+# 9.03.2021
+- Updated Origins to v0.6.0
+- Merge power types together for current origins
+
 # 6.03.2021
 - New Origin: Rootling (Shapeshifter/Nature)
 - Delete ``unused_shapeshift.json`` from \rpgslash\powers
